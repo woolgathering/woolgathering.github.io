@@ -8,10 +8,10 @@
 # Site settings
 title: j a c o b s u n d s t r o m
 description: > # this means to ignore newlines until "baseurl:"
-  A minimalistic theme for Jekyll, based on hack.css
+  you can't understand it unless you've been there
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
-url: https://wemake-services.github.io  # the base hostname & protocol for your site
+url: https://www.jacobsundstrom.com  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -26,15 +26,19 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 # Customizations
 your_name: jacob sundstrom
 email: jacobsundstrom@gmail.com
-#
-# navigation:
-#   - text: Home
-#     url: /
-#   - text: Docs
-#     url: /docs
-#   - text: Examples
-#     url: /examples
-#
+
+navigation:
+  - text: Home
+    url: /
+  - text: Bio
+    url: /pages/bio
+  - text: Events
+    url: /pages/events
+  - text: woolgathering
+    url: /pages/woolgathering
+  # - text: Examples
+  #   url: /examples
+
 # projects:
 #   - name: git-secret
 #     description: A bash-tool to store your private data inside a git repository.
@@ -60,5 +64,6 @@ email: jacobsundstrom@gmail.com
 #     link: https://twitter.com/sobolevn
 
 # Plugins
-gems:
+plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
