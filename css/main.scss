@@ -29,6 +29,10 @@ $on-palm:          768px;
     }
 }
 
+@-ms-viewport{
+  width: device-width;
+}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
