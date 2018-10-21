@@ -34,6 +34,8 @@ navigation:
     url: /pages/bio
   - text: Events
     url: /pages/events
+  - text: Code
+    url: /pages/code
   - text: woolgathering
     url: /pages/woolgathering
   # - text: Examples
