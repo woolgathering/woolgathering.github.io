@@ -10,7 +10,7 @@ title: j a c o b s u n d s t r o m
 description: > # this means to ignore newlines until "baseurl:"
   you can't understand it unless you've been there
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
-baseurl: //  # the subpath of your site, e.g. /blog
+baseurl: http://www.jacobsundstrom.com  # the subpath of your site, e.g. /blog
 url: https://www.jacobsundstrom.com  # the base hostname & protocol for your site
 
 # Build settings
