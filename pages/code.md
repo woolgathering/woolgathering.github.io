@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://woolgathering.github.com"
+redirect_to: "https://github.com/woolgathering"
 ---
