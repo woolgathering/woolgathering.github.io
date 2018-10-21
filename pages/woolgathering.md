@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://woolgatheringsound.bandcamp.com"
+redirect_to: "https://github.com/woolgathering"
 ---
