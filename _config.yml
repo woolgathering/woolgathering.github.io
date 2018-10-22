@@ -10,7 +10,7 @@ title: j a c o b s u n d s t r o m
 description: > # this means to ignore newlines until "baseurl:"
   you can't understand it unless you've been there
 repository: https://github.com/woolgathering/woolgathering.github.io
-baseurl: https://www.jacobsundstrom.com  # the subpath of your site, e.g. /blog
+baseurl: /jacobsundstrom.com  # the subpath of your site, e.g. /blog
 url: https://www.jacobsundstrom.com  # the base hostname & protocol for your site
 
 # Build settings
@@ -31,13 +31,15 @@ navigation:
   - text: Home
     url: /
   - text: Bio
-    url: /pages/bio
+    url: /bio
+  - text: Work
+    url: /work
   - text: Events
-    url: /pages/events
+    url: /events
   - text: Code
-    url: /pages/code
+    url: /code
   - text: woolgathering
-    url: /pages/woolgathering
+    url: /woolgathering
   # - text: Examples
   #   url: /examples
 

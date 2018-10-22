@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: pages/events
+permalink: events
 ---
 
 # Events
