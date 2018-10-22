@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /bio
+permalink: /about
 ---
 
 # Bio
