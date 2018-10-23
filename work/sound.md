@@ -23,12 +23,11 @@ _come one now_ (2014) 12' <br />
 flute, violin, cello, electronics
 
 [_no comment from the Grey Room_](http://jacobsundstrom.com/work/sound/noComment) (2012) 12' <br />
-<!-- _no comment from the Grey Room_ (2012) 12' <br /> -->
 string quartet
 
 ## Large Ensemble
 
-_aplisro._ (2015) 15' <br />
+[_aplisro._](http://jacobsundstrom.com/work/sound/aplisro) (2015) 15' <br />
 flute, clarinet (bass + Bb), baritone saxophone, violin, viola, cello, piano (+ keyboard), percussion
 
 ## Electronic
