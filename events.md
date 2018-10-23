@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: events
+permalink: /events
 ---
 
 # Events
 
-## 2018 ----------------------------------------------------------------------------------------
+## 2018
 
 __30.11.2018 - 14.01.2019__ _Erasure_ at the San Diego Art Institute. Solo Show (San Diego, California)
 
@@ -17,7 +17,7 @@ __13.04.2018 - 14.04.2018__ _every once in a while i don't believe you ii_ overn
 
 __11.02.2018__ _Erasure_ installation premiere as part of the Qualcomm IDEAS Series. Atkinson Hall, Calit2, UCSD (San Diego, California)
 
-## 2017 ----------------------------------------------------------------------------------------
+## 2017
 
 __16.11.2017 - 18.11.2017__ _thoughts on Rorschach_ GIF animations at Piksel17 (Bergen, Norway)
 
