@@ -72,3 +72,6 @@ navigation:
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
+
+# Google Analytics
+google_analytics: UA—128041839-1
