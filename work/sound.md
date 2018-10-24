@@ -25,12 +25,21 @@ flute, violin, cello, electronics
 [_no comment from the Grey Room_](http://jacobsundstrom.com/work/sound/noComment) (2012) 12' <br />
 string quartet
 
+_∞ – ∞ = any number you like_ (2011) 13' <br />
+flute, bass clarinet, horn, piano, percussion
+
+_517' for quartet_ (2010) 10' <br/>
+violin, viola, cello, contrabass
+
 ## Large Ensemble
 
 [_aplisro._](http://jacobsundstrom.com/work/sound/aplisro) (2015) 15' <br />
 flute, clarinet (bass + Bb), baritone saxophone, violin, viola, cello, piano (+ keyboard), percussion
 
 ## Electronic
+
+_no facts, just slander_ (2017) 3'
+fixed media in stereo
 
 _descent #7_ (2012) 21' <br />
 fixed-media in two or four channels with tactile furniture
