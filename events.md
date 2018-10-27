@@ -7,7 +7,7 @@ permalink: /events
 
 ## 2018
 
-__30.11.2018 - 14.01.2019__ _Erasure_ at the San Diego Art Institute. Solo Show (San Diego, California)
+__30.11.2018 - 14.01.2019__ _Erasure_ and _thoughts on Rorschach_ in _Rising Tide_ at the [San Diego Art Institute](https://www.sandiego-art.org/new-events/2018/11/30/rising-tide). Solo Exhibition (San Diego, California)
 
 __27.11.2018__: _descent #2_ for piano and electronics. Grains of Sound Festival, San Francisco Conservatory (San Francisco, California)
 
