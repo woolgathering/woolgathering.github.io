@@ -10,8 +10,9 @@ title: j a c o b s u n d s t r o m
 description: > # this means to ignore newlines until "baseurl:"
   you can't understand it unless you've been there
 repository: https://github.com/woolgathering/woolgathering.github.io
-# baseurl: /jacobsundstrom.com  # the subpath of your site, e.g. /blog
-baseurl: /  # the subpath of your site, e.g. /blog
+baseurl: /jacobsundstrom.com  # the subpath of your site, e.g. /blog
+# baseurl: /woolgathering.github.io  # the subpath of your site, e.g. /blog
+# baseurl: /  # the subpath of your site, e.g. /blog
 url: https://www.jacobsundstrom.com  # the base hostname & protocol for your site
 
 # Build settings
@@ -68,10 +69,25 @@ navigation:
 #     username: sobolevn
 #     link: https://twitter.com/sobolevn
 
+responsive_image:
+  template: _includes/responsive-image.html
+  cache: true
+  strip: true
+  default_quality: 90
+  sizes:
+    - width: 20 # lq
+      quality: 10
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 800
+    - width: 1400
+      quality: 90
+
 # Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-responsive-image
 
 # Google Analytics
 google_analytics: UA—128041839-1

@@ -29,6 +29,9 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-redirect-from (0.14.0)
       jekyll (~> 3.3)
+    jekyll-responsive-image (1.5.2)
+      jekyll (>= 2.0, < 4.0)
+      rmagick (>= 2.0, < 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
@@ -48,6 +51,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
+    rmagick (2.16.0)
     rouge (3.2.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
@@ -63,6 +67,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-redirect-from
+  jekyll-responsive-image
   jekyll-seo-tag
 
 BUNDLED WITH

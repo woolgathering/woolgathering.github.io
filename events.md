@@ -9,7 +9,7 @@ permalink: /events
 
 __30.11.2018 - 14.01.2019__ _Erasure_ and _thoughts on Rorschach_ in _Rising Tide_ at the [San Diego Art Institute](https://www.sandiego-art.org/new-events/2018/11/30/rising-tide). Solo Exhibition (San Diego, California)
 
-__27.11.2018__: _descent #2_ for piano and electronics. Grains of Sound Festival, San Francisco Conservatory (San Francisco, California)
+__27.11.2018__: _descent #2_ for piano and electronics (piano: [Lukáš Janata](http://www.lukasjanata.cz/)). Grains of Sound Festival, San Francisco Conservatory (San Francisco, California)
 
 __05.08.2018 - 10.08.2018__: _Erasure_ at the Daegu Art Factory. International Computer Music Conference (Daegu, South Korea)
 

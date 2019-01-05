@@ -1,9 +1,15 @@
 // custom stuff
 
-.responsive {
+// .responsive {
+//   max-width: 100%;
+//   height: auto;
+//   width: auto\9; /* ie8 */
+// }
+
+img {
   max-width: 100%;
   height: auto;
-  width: auto; /* ie8 */
+  width: auto\9; /* ie8 */
 }
 
 // div {
@@ -31,4 +37,18 @@
 .thumbnail img.portrait {
   width: 100%;
   height: auto;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.twoColumn {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
