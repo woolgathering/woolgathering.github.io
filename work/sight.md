@@ -34,8 +34,11 @@ _alone in the machine_ (2016) <br/>
 
 ## Installation
 
+_under the horizon_ (2017) <br/>
+&nbsp;&nbsp;site-specific audio-visual installation
+
 _every once in a while i don't believe you_ (2017/2018) <br/>
 &nbsp;&nbsp;overnight installation of sonified hypnograms
 
 [_Erasure_](./erasure) 2019 <br/>
-&nbsp;&nbsp;anti-interactive audio-visual installation
+&nbsp;&nbsp;anti-interactive multimedia installation
