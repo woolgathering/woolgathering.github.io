@@ -7,7 +7,7 @@ permalink: /work/sight/rorschach
 
 Using my own brainwaves, I play the part of both the psychologist and psychologized.
 <br/>
-[more information](/work/site/rorschach/moreinfo)
+[more information](/work/sight/rorschach/moreinfo)
 
 <d1>
   <div class="row">
