@@ -7,9 +7,38 @@ Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	
 Stills	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Stills$/;"	function	line:7
 Animation	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Animation$/;"	function	line:27
 Installation	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Installation$/;"	function	line:35
+title	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^title: j a c o b s u n d s t r o m$/;"	function	line:9
+description	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^description: > # this means to ignore newlines until "baseurl:"$/;"	function	line:10
+repository	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^repository: https:\/\/github.com\/woolgathering\/woolgathering.github.io$/;"	function	line:12
+baseurl	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^baseurl: \/  # the subpath of your site, e.g. \/blog$/;"	function	line:15
+url	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^url: https:\/\/www.jacobsundstrom.com  # the base hostname & protocol for your site$/;"	function	line:16
+markdown	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^markdown: kramdown$/;"	function	line:19
+sass	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^sass:$/;"	function	line:22
+style	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^  style: compressed$/;"	function	line:23
+theme_mode	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'$/;"	function	line:26
+your_name	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^your_name: jacob sundstrom$/;"	function	line:29
+email	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^email: jacobsundstrom@gmail.com$/;"	function	line:30
+navigation	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^navigation:$/;"	function	line:32
+url	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^    url: \/$/;"	function	line:34
+url	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^    url: \/about$/;"	function	line:36
+url	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^    url: \/work$/;"	function	line:38
+url	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^    url: \/events$/;"	function	line:40
+url	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^    url: \/code$/;"	function	line:42
+url	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^    url: \/woolgathering$/;"	function	line:44
+responsive_image	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^responsive_image:$/;"	function	line:72
+template	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^  template: _includes\/responsive-image.html$/;"	function	line:73
+cache	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^  cache: true$/;"	function	line:74
+strip	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^  strip: true$/;"	function	line:75
+default_quality	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^  default_quality: 90$/;"	function	line:76
+sizes	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^  sizes:$/;"	function	line:77
+quality	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^      quality: 10$/;"	function	line:79
+quality	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^      quality: 80 # [Optional] Overrides default_quality for this size.$/;"	function	line:81
+quality	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^      quality: 90$/;"	function	line:84
+plugins	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^plugins:$/;"	function	line:87
+google_analytics	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^google_analytics: UA—128041839-1$/;"	function	line:93
 div	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^<div>$/;"	function	line:5
 section	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^  <section>$/;"	function	line:7
 h	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <h1>you can't imagine it unless you've been there<\/h1>$/;"	function	line:8
 p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:10
-img	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <img src="images\/work\/stills\/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)">$/;"	function	line:14
+img	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <img src="images\/work\/stills\/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)" width="70%">$/;"	function	line:14
 p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:19
