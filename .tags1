@@ -4,6 +4,10 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-Work	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^# Work$/;"	function	line:5
-Sound	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sound$/;"	function	line:8
-Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sight$/;"	function	line:19
+div	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^<div>$/;"	function	line:5
+section	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^  <section>$/;"	function	line:7
+h	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <h1>you can't imagine it unless you've been there<\/h1>$/;"	function	line:8
+p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:10
+img	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <img src="images\/work\/stills\/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)" width="100%" >$/;"	function	line:14
+figcaption	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <figcaption>keep me from going crazy (2018)<\/figcaption>$/;"	function	line:15
+p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:20
