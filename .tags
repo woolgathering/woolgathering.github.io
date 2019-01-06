@@ -3,10 +3,6 @@ _Exhibition History_	/home/roger/Documents/jacob/website/woolgathering.github.io
 Erasure (2018)	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight/erasure.md	/^# Erasure (2018)$/;"	function	line:6
 @ Calit2:	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight/erasure.md	/^### @ Calit2:$/;"	function	line:20
 _Exhibition History_	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight/erasure.md	/^### _Exhibition History_$/;"	function	line:51
-Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^# Sight$/;"	function	line:5
-Stills	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Stills$/;"	function	line:7
-Animation	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Animation$/;"	function	line:27
-Installation	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Installation$/;"	function	line:35
 title	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^title: j a c o b s u n d s t r o m$/;"	function	line:9
 description	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^description: > # this means to ignore newlines until "baseurl:"$/;"	function	line:10
 repository	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^repository: https:\/\/github.com\/woolgathering\/woolgathering.github.io$/;"	function	line:12
@@ -42,3 +38,10 @@ h	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <
 p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:10
 img	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <img src="images\/work\/stills\/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)" width="70%">$/;"	function	line:14
 p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:19
+Work	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^# Work$/;"	function	line:5
+Sound	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sound$/;"	function	line:8
+Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sight$/;"	function	line:19
+Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^# Sight$/;"	function	line:5
+Stills	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Stills$/;"	function	line:7
+Animation	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Animation$/;"	function	line:27
+Installation	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Installation$/;"	function	line:35
