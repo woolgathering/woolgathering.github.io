@@ -30,9 +30,6 @@ quality	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	
 quality	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^      quality: 90$/;"	function	line:84
 plugins	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^plugins:$/;"	function	line:87
 google_analytics	/home/roger/Documents/jacob/website/woolgathering.github.io/_config.yml	/^google_analytics: UA—128041839-1$/;"	function	line:93
-Work	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^# Work$/;"	function	line:5
-Sound	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sound$/;"	function	line:8
-Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sight$/;"	function	line:19
 Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^# Sight$/;"	function	line:5
 Stills	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Stills$/;"	function	line:7
 Animation	/home/roger/Documents/jacob/website/woolgathering.github.io/work/sight.md	/^## Animation$/;"	function	line:27
@@ -45,3 +42,6 @@ h	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <
 p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:10
 img	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <img src="images\/work\/stills\/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)" width="100%">$/;"	function	line:14
 p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:19
+Work	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^# Work$/;"	function	line:5
+Sound	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sound$/;"	function	line:8
+Sight	/home/roger/Documents/jacob/website/woolgathering.github.io/work.md	/^## Sight$/;"	function	line:19

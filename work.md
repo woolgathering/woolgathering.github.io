@@ -21,7 +21,7 @@ permalink: /work
 <d1>
   <div class="thumbnail">
     <a href="https://www.jacobsundstrom.com/work/sight">
-      <img src="https://drive.google.com/uc?id=1VjlaLwJlaBYMRHxv-jrQHNIhVoLyto0o">
+      <img src="/images/work/erasure/erasure_photo5.jpg">
     </a>
   </div>
 </d1>
