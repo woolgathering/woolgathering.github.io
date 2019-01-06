@@ -8,5 +8,5 @@ div	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^<di
 section	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^  <section>$/;"	function	line:7
 h	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <h1>you can't imagine it unless you've been there<\/h1>$/;"	function	line:8
 p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:10
-img	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <img src="images\/work\/stills\/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)">$/;"	function	line:16
-p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:23
+img	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^      <img src="images\/work\/stills\/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)">$/;"	function	line:14
+p	/home/roger/Documents/jacob/website/woolgathering.github.io/index.html	/^    <p>$/;"	function	line:19
