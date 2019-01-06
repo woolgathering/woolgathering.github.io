@@ -26,7 +26,11 @@ _keep me from going crazy_ (2018)
 
 ## Animation
 
+<<<<<<< HEAD
 [_Thoughts on Rorschach_](/work/sight/rorschach) (2015) <br/>
+=======
+[_Thoughts on Rorschach_](/sight/rorschach) (2015) <br/>
+>>>>>>> 427028407b109cd886eab9304b30f71757fe371d
 &nbsp;&nbsp;GIF animations
 
 _alone in the machine_ (2016) <br/>
@@ -40,5 +44,9 @@ _under the horizon_ (2017) <br/>
 _every once in a while i don't believe you_ (2017/2018) <br/>
 &nbsp;&nbsp;overnight installation of sonified hypnograms
 
+<<<<<<< HEAD
 [_Erasure_](/work/sight/erasure) 2018 <br/>
+=======
+[_Erasure_](/sight/erasure) 2019 <br/>
+>>>>>>> 427028407b109cd886eab9304b30f71757fe371d
 &nbsp;&nbsp;anti-interactive multimedia installation
