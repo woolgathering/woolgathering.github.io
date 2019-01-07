@@ -40,5 +40,5 @@ _under the horizon_ (2017) <br/>
 _every once in a while i don't believe you_ (2017/2018) <br/>
 &nbsp;&nbsp;overnight installation of sonified hypnograms
 
-[_Erasure_](/work/sight/erasure) 2018 <br/>
+[_Erasure_](/work/sight/erasure) (2018) <br/>
 &nbsp;&nbsp;anti-interactive multimedia installation
