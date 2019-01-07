@@ -16,7 +16,7 @@ Erasure responds ‘negatively’ to human presence in the installation environm
 
 In Erasure, the coral reef constructions ebb and flow between their ‘natural state’—meticulously constructed synthetic ecosystems—and transformative states: from granulations of the stony corals and polyps into whirling cascades of particles, to fissions of vast reef colonies into splintered slabs that recede in and out of focus. All the while, lingering traces of the piece in its ‘untouched’ state float amongst the remains, the metaphorical ecosystem dreaming and longing for an undisturbed state.
 
-[more thoughts...](/work/sight/erasure/moreThoughts)
+[more thoughts](/work/sight/erasure/moreThoughts)
 
 ### @ Calit2:
 <d1>
