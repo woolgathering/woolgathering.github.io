@@ -7,7 +7,7 @@ permalink: /work/sight/erasure
 
 <d1>
 <small>Created in collaboration with Vid Petrovic (computer science), Anthony Vine (composition), Fiona Digney (percussion) and with help from the Qualcomm Institute, Cali2, the Cultural Heretidge Engineering Initiative (CHEI), and Scripps' 100 Island Challenge. </small>
-</d1>
+</d1> <br/>
 
 Erasure examines the five stages of grief through the metaphor of the fragility of coral reef ecosystems and the detrimental effects of human impact on these critical environments in an immersive visual and sonic installation. By using an interconnected network of three-dimensional coral reef models and spatially/electronically processed percussion sounds, a metaphorical ecosystem that responds directly to human presence and as a function of the history of that presence throughout the work’s existence, shaping the short- and long-term evolution of the sonic and visual experience.
 
