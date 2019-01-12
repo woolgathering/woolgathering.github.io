@@ -37,7 +37,7 @@ _alone in the machine_ (2016) <br/>
 _under the horizon_ (2017) <br/>
 &nbsp;&nbsp;site-specific audio-visual installation
 
-_every once in a while i don't believe you_ (2017/2018) <br/>
+[_every once in a while i don't believe you_](/work/sight/everyonceinawhile) (2017/2018) <br/>
 &nbsp;&nbsp;overnight installation of sonified hypnograms
 
 [_Erasure_](/work/sight/erasure) (2018) <br/>
