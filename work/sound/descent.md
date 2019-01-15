@@ -23,3 +23,7 @@ The first in the series that uses electronics, unsettling the harmonic texture l
 ## _descent #7_ (21'36")
 
 The seventh in the series and the first to be produced, chronologically. Here there is no more acoustic piano, it has been lost down the path of recollection, bounding along corridors, reflected back, displaced in time and harmony. The movement is slower and more repetitious, wandering through various iterations of itself, the original memory all but forgotten and replaced with a newly constructed version that may be closer to the truth itself.
+
+<d>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=728040633/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://woolgatheringsound.bandcamp.com/album/descent-7">descent #7 by woolgathering</a></iframe>
+</d>
