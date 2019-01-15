@@ -34,7 +34,7 @@ _alone in the machine_ (2016) <br/>
 
 ## Installation
 
-_under the horizon_ (2017) <br/>
+[_under the horizon_](./underthehorizon) (2017) <br/>
 &nbsp;&nbsp;site-specific audio-visual installation
 
 [_every once in a while i don't believe you_](/work/sight/everyonceinawhile) (2017/2018) <br/>
