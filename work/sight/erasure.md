@@ -48,6 +48,12 @@ In Erasure, the coral reef constructions ebb and flow between their ‘natural s
 
 <br/>
 
+### Video
+<d>
+<iframe src="https://player.vimeo.com/video/311361875" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/311361875">Erasure (2018)</a> from <a href="https://vimeo.com/user93914579">Jacob Sundstrom</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</d>
+
 ### _Exhibition History_
 
 __30.11.2018 - 14.01.2019__ [San Diego Art Institute](https://www.sandiego-art.org/new-events/2018/11/30/rising-tide) as a part of _Rising Tide_ (San Diego, California)
