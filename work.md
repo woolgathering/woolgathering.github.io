@@ -10,7 +10,7 @@ permalink: /work
 <d1>
   <div class="thumbnail">
     <a href="https://www.jacobsundstrom.com/work/sound">
-      <img src="https://drive.google.com/uc?id=1dRuicUd1hkasCNt55FajVzsJ_dh2hrXl">
+      <img src="/images/work/aplisro.jpg">
     </a>
   </div>
 </d1>
