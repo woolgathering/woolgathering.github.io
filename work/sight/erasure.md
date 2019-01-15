@@ -49,10 +49,10 @@ In Erasure, the coral reef constructions ebb and flow between their ‘natural s
 <br/>
 
 ### Video
-<d>
+<d1>
 <iframe src="https://player.vimeo.com/video/311361875" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/311361875">Erasure (2018)</a> from <a href="https://vimeo.com/user93914579">Jacob Sundstrom</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</d>
+</d1>
 
 ### _Exhibition History_
 
