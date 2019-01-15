@@ -5,6 +5,10 @@ permalink: /events
 
 # Events
 
+## 2019
+
+__02.16.2019__ _on red on green_ and Roger Reynolds' _Dream Mirror_ with [Pablo Gómez](https://en.wikipedia.org/wiki/Pablo_G%C3%B3mez_(guitarist)) at Casa del Lago Juan José Arreola (Mexico City, Mexico)
+
 ## 2018
 
 __30.11.2018 - 14.01.2019__ _Erasure_ and _thoughts on Rorschach_ in _Rising Tide_ at the [San Diego Art Institute](https://www.sandiego-art.org/new-events/2018/11/30/rising-tide). Solo Exhibition (San Diego, California)
