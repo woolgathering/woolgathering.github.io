@@ -20,27 +20,27 @@ In Erasure, the coral reef constructions ebb and flow between their ‘natural s
 ### @ Calit2:
 <d1>
   <div class="row">
-    <div class="twoColumn">
-    <a href="../../images/work/erasure/erasure_photo5.jpg">
-      <img src="../../images/work/erasure/erasure_photo5.jpg" alt="Erasure 1" style="width:100%">
+    <div class="fourColumn">
+    <a href="../../../images/work/erasure/erasure_photo5.jpg">
+      <img src="../../../images/work/erasure/erasure_photo5.jpg" alt="Erasure 1" style="width:100%">
     </a>
     </div>
-    <div class="twoColumn">
-      <a href="../../images/work/erasure/erasure_photo4.jpg">
-        <img src="../../images/work/erasure/erasure_photo4.jpg" alt="Erasure 2" style="width:100%">
+    <div class="fourColumn">
+      <a href="../../../images/work/erasure/erasure_photo4.jpg">
+        <img src="../../../images/work/erasure/erasure_photo4.jpg" alt="Erasure 2" style="width:100%">
       </a>
     </div>
-  </div>
+  <!-- </div> -->
 
-  <div class="row">
-    <div class="twoColumn">
-    <a href="../../images/work/erasure/erasure_photo1.jpg">
-      <img src="../../images/work/erasure/erasure_photo1.jpg" alt="Erasure 1" style="width:100%">
+  <!-- <div class="row"> -->
+    <div class="fourColumn">
+    <a href="../../../images/work/erasure/erasure_photo1.jpg">
+      <img src="../../../images/work/erasure/erasure_photo1.jpg" alt="Erasure 1" style="width:100%">
     </a>
     </div>
-    <div class="twoColumn">
-      <a href="../../images/work/erasure/erasure_photo3.jpg">
-        <img src="../../images/work/erasure/erasure_photo3.jpg" alt="Erasure 2" style="width:100%">
+    <div class="fourColumn">
+      <a href="../../../images/work/erasure/erasure_photo3.jpg">
+        <img src="../../../images/work/erasure/erasure_photo3.jpg" alt="Erasure 2" style="width:100%">
       </a>
     </div>
   </div>
@@ -49,7 +49,10 @@ In Erasure, the coral reef constructions ebb and flow between their ‘natural s
 <br/>
 
 ### Video
-[Vimeo](https://vimeo.com/311361875)
+<!-- [Vimeo](https://vimeo.com/311361875) -->
+<d1>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/311361875?portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</d1>
 
 ### _Exhibition History_
 
