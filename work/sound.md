@@ -7,7 +7,7 @@ permalink: /work/sound
 ## Solo
 
 <!-- [_descent #1/#2_](http://jacobsundstrom/work/sound/descent) (2012/2017) 5' <br /> -->
-_descent #1/#2_ (2012/2017) 5' <br />
+[_descent #1/#2_](./descent) (2012/2017) 5' <br />
 piano with or without electronics.
 
 <!-- [_the piece formerly known as Boring Formless Nonsense_](http://jacobsundstrom.com/work/sound/boringformlessnonsense) (2013) 8'-11' <br /> -->
@@ -41,5 +41,5 @@ flute, clarinet (bass + Bb), baritone saxophone, violin, viola, cello, piano (+ 
 _no facts, just slander_ (2017) 3' <br/>
 fixed media in stereo
 
-_descent #7_ (2012) 21' <br />
+[_descent #7_](./descent) (2012) 21' <br />
 fixed-media in two or four channels with tactile furniture
