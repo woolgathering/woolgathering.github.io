@@ -30,11 +30,35 @@ img {
   top: 50%;
   height: 100%;
   width: auto;
+  object-fit: cover;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
           transform: translate(-50%,-50%);
 }
 .thumbnail img.portrait {
+  width: 100%;
+  height: auto;
+}
+
+.thumbnail_small {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+.thumbnail_small img {
+  // object-fit: none; /* Do not scale the image */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  object-fit: cover;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.thumbnail_small img.portrait {
   width: 100%;
   height: auto;
 }
