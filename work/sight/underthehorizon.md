@@ -4,7 +4,7 @@ permalink: /work/sight/underthehorizon
 ---
 # _under the horizon (sunset)_ (2017)
 <d1>
-<small>In collaboration with visual artist Maya Vanderschuit</small>
+<small>In collaboration with visual artist <a href="https://mayavanderschuit.wordpress.com/">Maya Vanderschuit</a></small>
 </d1>
 <br/>
 
