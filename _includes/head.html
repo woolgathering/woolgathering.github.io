@@ -30,10 +30,13 @@
   <!-- hack.css -->
   <link rel="stylesheet" href="https://npmcdn.com/hack/dist/hack.css" />
   {% if site.theme_mode == 'standard' %}
-  <!-- <link rel="stylesheet" href="https://npmcdn.com/hack/dist/standard.css" /> -->
-  <link rel="stylesheet" href="https://jacobsundstrom.com/css/standard.css" />
+  <link rel="stylesheet" href="https://npmcdn.com/hack/dist/standard.css" />
+  <!-- <link rel="stylesheet" href="http://jacobsundstrom.com/css/standard.css" /> -->
+  <!-- <link rel="stylesheet" href="../../css/standard.css" /> -->
   {% elsif site.theme_mode == 'dark' %}
   <link rel="stylesheet" href="https://npmcdn.com/hack/dist/dark.css" />
+  {% elsif site.theme_mode == 'custom' %}
+  <link rel="stylesheet" href="http://www.jacobsundstrom.com/css/custom.css" />
   {% endif %}
 
   <!-- Prism.js -->

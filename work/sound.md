@@ -6,7 +6,6 @@ permalink: /work/sound
 
 ## Solo
 
-<!-- [_descent #1/#2_](http://jacobsundstrom/work/sound/descent) (2012/2017) 5' <br /> -->
 [_descent #1/#2_](./sound/descent) (2012/2017) 5' <br />
 piano with or without electronics.
 
@@ -22,7 +21,7 @@ contrabass, electronics
 _come one now_ (2014) 12' <br />
 flute, violin, cello, electronics
 
-[_no comment from the Grey Room_](http://jacobsundstrom.com/work/sound/noComment) (2012) 12' <br />
+[_no comment from the Grey Room_](./sound/noComment) (2012) 12' <br />
 string quartet
 
 _∞ – ∞ = any number you like_ (2011) 13' <br />
@@ -33,7 +32,7 @@ violin, viola, cello, contrabass
 
 ## Large Ensemble
 
-[_aplisro._](http://jacobsundstrom.com/work/sound/aplisro) (2015) 15' <br />
+[_aplisro._](./sound/aplisro) (2015) 15' <br />
 flute, clarinet (bass + Bb), baritone saxophone, violin, viola, cello, piano (+ keyboard), percussion
 
 ## Electronic

@@ -23,7 +23,7 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: custom  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: jacob sundstrom
@@ -69,25 +69,25 @@ navigation:
 #     username: sobolevn
 #     link: https://twitter.com/sobolevn
 
-responsive_image:
-  template: _includes/responsive-image.html
-  cache: true
-  strip: true
-  default_quality: 90
-  sizes:
-    - width: 20 # lq
-      quality: 10
-    - width: 480  # [Required] How wide the resized image will be.
-      quality: 80 # [Optional] Overrides default_quality for this size.
-    - width: 800
-    - width: 1400
-      quality: 90
+# responsive_image:
+#   template: _includes/responsive-image.html
+#   cache: true
+#   strip: true
+#   default_quality: 90
+#   sizes:
+#     - width: 20 # lq
+#       quality: 10
+#     - width: 480  # [Required] How wide the resized image will be.
+#       quality: 80 # [Optional] Overrides default_quality for this size.
+#     - width: 800
+#     - width: 1400
+#       quality: 90
 
 # Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
-  - jekyll-responsive-image
+  # - jekyll-responsive-image
 
 # Google Analytics
 google_analytics: UA—128041839-1
