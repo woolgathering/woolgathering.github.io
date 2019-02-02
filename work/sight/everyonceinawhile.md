@@ -11,9 +11,9 @@ permalink: /work/sight/everyonceinawhile
   <div class="row">
     <div class="twoColumn">
       <a
-      href="../../images/work/everyonceinawhile/panorama.jpg">
+      href="../../../images/work/everyonceinawhile/panorama.jpg">
         <div class="thumbnail_small">
-          <img src="../../images/work/everyonceinawhile/panorama.jpg" alt="every once in a while II" style="width:100%">
+          <img src="../../../images/work/everyonceinawhile/panorama.jpg" alt="every once in a while II" style="width:100%">
         </div>
         <span style="font-size:0.8em">every once in a while i don't believe you ii</span>
       </a>
@@ -21,9 +21,9 @@ permalink: /work/sight/everyonceinawhile
 
     <div class="twoColumn">
       <a
-      href="../../images/work/everyonceinawhile/zine.jpg">
+      href="../../../images/work/everyonceinawhile/zine.jpg">
         <div class="thumbnail_small">
-          <img src="../../images/work/everyonceinawhile/zine.jpg" alt="zine" style="width:100%">
+          <img src="../../../images/work/everyonceinawhile/zine.jpg" alt="zine" style="width:100%">
         </div>
         <span style="font-size:0.8em">excerpt from zine containing Process S by Medic</span>
       </a>
