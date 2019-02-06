@@ -40,6 +40,6 @@ Using my own brainwaves, I play the part of both the psychologist and psychologi
 
 ### _Exhibition History_
 
-__30.11.2018 - 14.01.2019__ In _Rising Tide_ at the [San Diego Art Institute](https://www.sandiego-art.org/new-events/2018/11/30/rising-tide). Solo Exhibition (San Diego, California)
+__30.11.2018 - 14.01.2019__ In _Rising Tide_ at the [San Diego Art Institute](https://www.sandiego-art.org/past-exhibitions/2018/11/30/rising-tide). Solo Exhibition (San Diego, California)
 
 __16.11.2017 - 18.11.2017__ At Piksel17 (Bergen, Norway)

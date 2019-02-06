@@ -56,7 +56,7 @@ In Erasure, the coral reef constructions ebb and flow between their ‘natural s
 
 ### _Exhibition History_
 
-__30.11.2018 - 14.01.2019__ [San Diego Art Institute](https://www.sandiego-art.org/new-events/2018/11/30/rising-tide) as a part of _Rising Tide_ (San Diego, California)
+__30.11.2018 - 14.01.2019__ [San Diego Art Institute](https://www.sandiego-art.org/past-exhibitions/2018/11/30/rising-tide) as a part of _Rising Tide_ (San Diego, California)
 
 __05.08.2018 - 10.08.2018__: Daegu Art Factory. International Computer Music Conference (Daegu, South Korea)
 
