@@ -26,36 +26,28 @@ The collaborative conceptual framework of this piece stems from a discussion sur
 ### @ Birch
 <d1>
   <div class="row">
-    <div class="twoColumn">
-      <div class="thumbnail_small">
-        <a href="../../images/work/underthehorizon/projection1.jpg">
-          <img src="../../images/work/underthehorizon/projection1.jpg" alt="Erasure 1" style="width:100%">
-        </a>
-      </div>
-    </div>
-    <div class="twoColumn">
-    <div class="thumbnail_small">
-      <a href="../../images/work/underthehorizon/projection2.jpg">
-        <img src="../../images/work/underthehorizon/projection2.jpg" alt="Erasure 2" style="width:100%">
-      </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="twoColumn">
-    <div class="thumbnail_small">
-    <a href="../../images/work/underthehorizon/mg_0294.jpg">
-      <img src="../../images/work/underthehorizon/mg_0294.jpg" alt="Erasure 1" style="width:100%">
+    <div class="fourColumn">
+    <a href="../../../images/work/underthehorizon/mg_0294.jpg">
+      <img src="../../../images/work/underthehorizon/mg_0294.jpg" alt="Erasure 1" style="width:100%">
     </a>
     </div>
-    </div>
-    <div class="twoColumn">
-    <div class="thumbnail_small">
-      <a href="../../images/work/underthehorizon/mg_0281-2.jpg">
-        <img src="../../images/work/underthehorizon/mg_0281-2.jpg" alt="Erasure 2" style="width:100%">
+    <div class="fourColumn">
+      <a href="../../../images/work/underthehorizon/projection2.jpg">
+        <img src="../../../images/work/underthehorizon/projection2.jpg" alt="Erasure 2" style="width:100%">
       </a>
-      </div>
+    </div>
+  <!-- </div> -->
+
+  <!-- <div class="row"> -->
+    <div class="fourColumn">
+    <a href="../../../images/work/underthehorizon/mg_0294.jpg">
+      <img src="../../../images/work/underthehorizon/mg_0294.jpg" alt="Erasure 1" style="width:100%">
+    </a>
+    </div>
+    <div class="fourColumn">
+      <a href="../../../images/work/underthehorizon/mg_0281-2.jpg">
+        <img src="../../../images/work/underthehorizon/mg_0281-2.jpg" alt="Erasure 2" style="width:100%">
+      </a>
     </div>
   </div>
 </d1>
