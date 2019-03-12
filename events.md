@@ -7,6 +7,8 @@ permalink: /events
 
 ## 2019
 
+__04.14.2019__ _New American Fare_ at [Space 4 Art](http://www.sdspace4art.org/). (San Diego, California)
+
 __02.16.2019__ _on red on green_ and Roger Reynolds' _Dream Mirror_ with [Pablo Gómez](https://en.wikipedia.org/wiki/Pablo_G%C3%B3mez_(guitarist)) at Casa del Lago Juan José Arreola (Mexico City, Mexico)
 
 ## 2018
