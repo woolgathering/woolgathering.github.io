@@ -7,6 +7,8 @@ permalink: /events
 
 ## 2019
 
+__07.27.2019 - 07.28.2019__ _Opera Hack_ at the [San Diego Opera](https://www.sdopera.org/) (San Diego, California)
+
 __04.14.2019__ _New American Fare_ at [Space 4 Art](http://www.sdspace4art.org/). (San Diego, California)
 
 __02.16.2019__ _on red on green_ and Roger Reynolds' _Dream Mirror_ with [Pablo Gómez](https://en.wikipedia.org/wiki/Pablo_G%C3%B3mez_(guitarist)) at Casa del Lago Juan José Arreola (Mexico City, Mexico)
@@ -29,7 +31,7 @@ __16.11.2017 - 18.11.2017__ _thoughts on Rorschach_ GIF animations at Piksel17 (
 
 __09.04.2017__ _under the horizon_ multimedia collaboration with [Maya Vanderschuit](https://mayavanderschuit.wordpress.com/). Birch Aquarium, Scripps Institute of Oceanography (La Jolla, California)
 
-__10.03.2017__ _the piece formerly known as Boring Formless Nonsense_ for saxophone and electronics (sax: [Kevin Baldwin](https://www.kevinbaldwinmusic.com/)). Louisiana State University, School of Music Recital Hall (Baton Rouge, Louisiana)
+__10.03.2017__ _the piece formerly known as Boring Formless Nonsense_ for baritone saxophone and electronics (sax: [Kevin Baldwin](https://www.kevinbaldwinmusic.com/)). Louisiana State University, School of Music Recital Hall (Baton Rouge, Louisiana)
 
 __11.02.2017__ _once in a while, i don't believe you_ overnight performance as part of the SlowSD Festival of Slow Music. Conrad Prebys Music Center (La Jolla, California)
 
