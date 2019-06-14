@@ -13,7 +13,7 @@ permalink: /work/sight/onceinawhile
       <a
       href="../../../images/work/everyonceinawhile/panorama.jpg">
         <div class="thumbnail_small">
-          <img src="../../../images/work/everyonceinawhile/panorama.jpg" alt="every once in a while II" style="width:100%">
+          <img src="../../../images/work/everyonceinawhile/panorama.jpg" alt="once in a while II" style="width:100%">
         </div>
         <span style="font-size:0.8em">every once in a while i don't believe you ii</span>
       </a>

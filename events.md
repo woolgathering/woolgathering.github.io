@@ -7,7 +7,7 @@ permalink: /events
 
 ## 2019
 
-__07.27.2019 - 07.28.2019__ _Opera Hack_ at the [San Diego Opera](https://www.sdopera.org/) (San Diego, California)
+__07.27.2019 - 07.28.2019__ Participant in _Opera Hack_ at the [San Diego Opera](https://www.sdopera.org/) (San Diego, California)
 
 __04.14.2019__ _New American Fare_ at [Space 4 Art](http://www.sdspace4art.org/). (San Diego, California)
 
