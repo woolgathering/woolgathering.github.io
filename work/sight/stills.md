@@ -25,7 +25,7 @@ _keep me from going crazy_ (2018) -->
         </a>
       </div>
       <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
-        <figcaption> "keep me from going crazy (2018)"</figcaption>
+        <figcaption>keep me from going crazy (2018)</figcaption>
       </a>
     </div>
     <div class="twoColumn">
@@ -35,7 +35,7 @@ _keep me from going crazy_ (2018) -->
         </a>
       </div>
       <a href="../../images/work/stills/eclipse.jpg">
-        <figcaption> "eclipse (2015)"</figcaption>
+        <figcaption>eclipse (2015)</figcaption>
       </a>
     </div>
   </div>
@@ -49,7 +49,7 @@ _keep me from going crazy_ (2018) -->
         </a>
       </div>
       <a href="../../images/work/stills/circle.jpg">
-        <figcaption> "untitled (2018)"</figcaption>
+        <figcaption>untitled (2018)</figcaption>
       </a>
     </div>
     <div class="twoColumn">
