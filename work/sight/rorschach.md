@@ -13,12 +13,12 @@ Using my own brainwaves, I play the part of both the psychologist and psychologi
   <div class="row">
     <div class="twoColumn">
     <a href="../../../images/work/rorschach/sundstrom_rorschach1.gif">
-      <img src="../../../images/work/rorschach/rorschach1.jpg" alt="Erasure 1" style="width:100%">
+      <img src="../../../images/work/rorschach/rorschach1.jpg" alt="rorschach 1" style="width:100%">
     </a>
     </div>
     <div class="twoColumn">
       <a href="../../../images/work/rorschach/sundstrom_rorschach2.gif">
-        <img src="../../../images/work/rorschach/rorschach2.jpg" alt="Erasure 2" style="width:100%">
+        <img src="../../../images/work/rorschach/rorschach2.jpg" alt="rorschach 2" style="width:100%">
       </a>
     </div>
   </div>
@@ -26,12 +26,12 @@ Using my own brainwaves, I play the part of both the psychologist and psychologi
   <div class="row">
     <div class="twoColumn">
     <a href="../../../images/work/rorschach/sundstrom_rorschach3.gif">
-      <img src="../../../images/work/rorschach/rorschach3.jpg" alt="Erasure 1" style="width:100%">
+      <img src="../../../images/work/rorschach/rorschach3.jpg" alt="rorschach 1" style="width:100%">
     </a>
     </div>
     <div class="twoColumn">
       <a href="../../../images/work/rorschach/sundstrom_rorschach4.gif">
-        <img src="../../../images/work/rorschach/rorschach4.jpg" alt="Erasure 2" style="width:100%">
+        <img src="../../../images/work/rorschach/rorschach4.jpg" alt="rorschach 2" style="width:100%">
       </a>
     </div>
   </div>

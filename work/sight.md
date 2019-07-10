@@ -6,11 +6,13 @@ permalink: /work/sight
 
 ## Stills
 
-_tank_ (2015)
+[Gallery](./stills)
 
-_eclipse_ (2015)
+<!-- _tank_ (2015) -->
 
-_keep me from going crazy_ (2018)
+<!-- _eclipse_ (2015) -->
+
+<!-- _keep me from going crazy_ (2018) -->
 
 <!-- <d1>
   <div class="row">
@@ -26,7 +28,7 @@ _keep me from going crazy_ (2018)
 
 ## Animation
 
-[_Thoughts on Rorschach_](/work/sight/rorschach) (2015) <br/>
+[_Thoughts on Rorschach_](./sight/rorschach) (2015) <br/>
 &nbsp;&nbsp;GIF animations
 
 _alone in the machine_ (2016) <br/>
@@ -37,8 +39,11 @@ _alone in the machine_ (2016) <br/>
 [_under the horizon_](./sight/underthehorizon) (2017) <br/>
 &nbsp;&nbsp;site-specific audio-visual installation
 
-[_once in a while i don't believe you_](/work/sight/onceinawhile) (2017/2018) <br/>
+[_once in a while i don't believe you_](./sight/onceinawhile) (2017/2018) <br/>
 &nbsp;&nbsp;overnight installation of sonified hypnograms
 
-[_Erasure_](/work/sight/erasure) (2018) <br/>
+[_Erasure_](./sight/erasure) (2018) <br/>
 &nbsp;&nbsp;anti-interactive multimedia installation
+
+[_New American Fare_](./sight/newamericanfare) (2019 - ongoing) <br/>
+&nbsp;&nbsp;culinary arts for the machine
