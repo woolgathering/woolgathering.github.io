@@ -6,7 +6,7 @@ permalink: /work/sight
 
 ## Stills
 
-[Gallery](./stills)
+[Gallery](./sight/stills)
 
 <!-- _tank_ (2015) -->
 
