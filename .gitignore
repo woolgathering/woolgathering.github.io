@@ -111,3 +111,6 @@ crashlytics-build.properties
 
 # tag files
 .tag*
+
+# runLocal
+runLocal.txt
