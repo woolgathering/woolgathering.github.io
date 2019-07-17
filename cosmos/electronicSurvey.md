@@ -46,5 +46,12 @@ Created entirely from layered tape loops from a piano, Eno's _Music for Airports
 
 ### Tim Hecker
 
+ - [Dropped Pianos (2011, album)](https://www.youtube.com/watch?v=aqWNc7O6V1I)
 
-### 
+Ambient. One of the best albums of the 2010's.
+
+### Yasuano Tone
+
+ - [Solo for Wounded CD](https://www.youtube.com/watch?v=CEDi-39o5qw)
+
+
