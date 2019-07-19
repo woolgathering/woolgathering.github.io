@@ -40,7 +40,7 @@ In _Music for Solo Performer_, Lucier amplifies the alpha waves produced by his 
 
 Created entirely from layered tape loops from a piano, Eno's _Music for Airports_ is the original ambient album that was, indeed, ambient: it was intended as background music, literally. This takes Erik Satie's "furniture music" into a new era.
 
- 
+
 
 ## Later Electronic Music (sometimes in the concert music tradition)
 
@@ -54,4 +54,24 @@ Ambient. One of the best albums of the 2010's.
 
  - [Solo for Wounded CD](https://www.youtube.com/watch?v=CEDi-39o5qw)
 
+A tweaked CD player.
 
+### Circuit Bending (technique)
+
+[Casio SA-2](https://www.youtube.com/watch?v=4tTe7chSYqM)
+[Bomtempi System 5](https://www.youtube.com/watch?v=2D-QAWQgm1M)
+
+Circuit bending is the process of "rewiring" existing circuits. Results tend to be chaotic, aggressive, and amazing. Typically ends at some point with the machine dying.
+
+### Shimon
+
+Robot playing marimba.
+
+[Listen](https://www.youtube.com/watch?v=l9OUbqWHOSk)
+
+## Plunderphonics
+
+John Oswald. [Dab](https://www.youtube.com/watch?v=8xIWLG-F0Ag)
+
+
+## New Media Art
