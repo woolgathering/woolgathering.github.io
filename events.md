@@ -5,6 +5,14 @@ permalink: /events
 
 # Events
 
+## 2020
+
+__04.09.2020__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. University of California, Santa Cruz (Santa Cruz, California)
+
+__04.08.2020__ Premiere of _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. San Francisco State University (San Francisco, California)
+
+__02.20.2020__ New works by Sophia Daud. With Sophia Daud, Diarmid Flatley, and Sharon Chang. CalArts (Valencia, California)
+
 ## 2019
 
 __07.27.2019 - 07.28.2019__ Participant in _Opera Hack_ at the [San Diego Opera](https://www.sdopera.org/) (San Diego, California)
