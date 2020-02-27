@@ -49,4 +49,6 @@ __10.03.2017__ _the piece formerly known as Boring Formless Nonsense_ for barito
 
 __11.02.2017__ _once in a while, i don't believe you_ overnight performance as part of the SlowSD Festival of Slow Music. Conrad Prebys Music Center (La Jolla, California)
 
-<!-- ## 2016 ---------------------------------------------------------------------------------------- -->
+## 2016
+
+I can hardly remember...
