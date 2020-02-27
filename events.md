@@ -7,7 +7,9 @@ permalink: /events
 
 ## 2020
 
-__05.27.2020__ _descent #2_ for piano and electronics (piano: Mari Kawamura). University of California, San Diego (San Diego, California)
+__06.14.2020 - 06.21.2020__ _once in a while i don't believe you iii_ multi-day sound installation at Avery Fischer Library, New York University. NYCEMF 2020 (New York, New York)
+
+__05.27.2020__ _descent #2_ for piano and electronics (piano: [Mari Kawamura](https://marikawamura.net/)). University of California, San Diego (San Diego, California)
 
 __04.12.2020 - 04.18.2020__ _no facts, just slander_ at Springfest. University of California, San Diego (San Diego, California)
 
