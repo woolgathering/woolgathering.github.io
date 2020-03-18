@@ -9,13 +9,13 @@ permalink: /events
 
 __06.14.2020 - 06.21.2020__ _once in a while i don't believe you iii_ multi-day sound installation at Avery Fischer Library, New York University. NYCEMF 2020 (New York, New York)
 
-__05.27.2020__ _descent #2_ for piano and electronics (piano: [Mari Kawamura](https://marikawamura.net/)). University of California, San Diego (San Diego, California)
+__05.27.2020__ __CANCELLED__ _descent #2_ for piano and electronics (piano: [Mari Kawamura](https://marikawamura.net/)). University of California, San Diego (San Diego, California)
 
-__04.12.2020 - 04.18.2020__ _no facts, just slander_ sound sculpture at Springfest. University of California, San Diego (San Diego, California)
+__04.12.2020 - 04.18.2020__ __CANCELLED__ _no facts, just slander_ sound sculpture at Springfest. University of California, San Diego (San Diego, California)
 
-__04.09.2020__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. University of California, Santa Cruz (Santa Cruz, California)
+__04.09.2020__ __CANCELLED__  _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. University of California, Santa Cruz (Santa Cruz, California)
 
-__04.08.2020__ Premiere of _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. San Francisco State University (San Francisco, California)
+__04.08.2020__ __CANCELLED__  Premiere of _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. San Francisco State University (San Francisco, California)
 
 __02.20.2020__ _Placeless Landscape No. 1_ by Sophia Daud. With Sophia Daud, Diarmid Flatley, and Sharon Chang. D300 Gallery, California Institute of the Arts (Valencia, California)
 
