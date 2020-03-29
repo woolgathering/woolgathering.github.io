@@ -36,7 +36,7 @@ flute, clarinet (bass + Bb), baritone saxophone, violin, viola, cello, piano (+ 
 
 ## Electronic
 
-_no facts, just slander_ (2017) 3' <br/>
+_electronic music remix_ (2017) 3' <br/>
 fixed media in stereo
 
 [_descent #7_](./sound/descent) (2012) 21' <br />
