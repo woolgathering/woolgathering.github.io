@@ -7,7 +7,7 @@ permalink: /events
 
 ## 2020
 
-__06.14.2020 - 06.21.2020__ _once in a while i don't believe you iii_ multi-day sound installation at Avery Fischer Library, New York University. NYCEMF 2020 (New York, New York)
+__06.14.2020 - 06.21.2020__ __CANCELLED__ _once in a while i don't believe you iii_ multi-day sound installation at Avery Fischer Library, New York University. NYCEMF 2020 (New York, New York)
 
 __05.27.2020__ __CANCELLED__ _descent #2_ for piano and electronics (piano: [Mari Kawamura](https://marikawamura.net/)). University of California, San Diego (San Diego, California)
 
