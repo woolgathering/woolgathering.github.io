@@ -1,0 +1,111 @@
+#N canvas 329 316 1153 550 12;
+#N canvas 653 382 450 300 mySource 0;
+#X obj 160 176 outlet~;
+#X text 13 94 this is your source signal. Using something rhythmic
+will make debugging easier.;
+#X restore 481 105 pd mySource;
+#X obj 481 339 *~;
+#X obj 499 203 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 4100 1;
+#X obj 482 369 throw~ \$0-output;
+#X text 528 280 dry level;
+#X obj 677 438 *~;
+#X obj 695 302 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 4700 1;
+#X obj 678 468 throw~ \$0-output;
+#X text 724 379 wet level;
+#N canvas 659 249 450 300 myChorusOrFlanger 0;
+#X obj 28 62 inlet~;
+#X obj 22 243 outlet~;
+#X obj 319 56 inlet modFreq;
+#X text 15 152 The modFreq should be a frequency which is synchronized
+with the BPM. This may mean resetting the phase of the LFO each time
+you change the modulation frequency to ensure it stays synchronized.
+;
+#X text 17 112 The chorus \, if you so choose \, should have at least
+four voices. HINT: This means at least four [delread4~]'s...;
+#X text 139 230 BPM 60 = 1s = 1Hz;
+#X text 139 254 BPM 120 = 0.5s = 2Hz;
+#X obj 329 224 phasor~;
+#X obj 334 257 samphold~;
+#X restore 676 254 pd myChorusOrFlanger;
+#X floatatom 772 51 5 0 0 0 - - -;
+#X text 812 52 BPM;
+#N canvas 712 318 450 300 myDelayTaps 0;
+#X obj 51 34 inlet~;
+#X obj 62 220 outlet~;
+#X text 19 78 The delay should consist of at least two taps that are
+synchonized to a BPM \, with a feedback parameter.;
+#X obj 242 33 inlet delayInMS;
+#X obj 128 35 inlet feedback;
+#X text 17 127 That is \, if my BPM is 60 (1000ms) and my note duration
+is an eighth note \, I should hear delayed versions of the input every
+120 BPM (500ms).;
+#X text 179 228 tap = [delread4~];
+#X restore 677 177 pd myDelayTaps;
+#N canvas 787 273 650 452 myDelaySynchronizer 0;
+#X obj 28 27 inlet bpm;
+#X obj 30 356 outlet delayMs;
+#X obj 488 26 inlet noteLength;
+#X text 15 85 This part should convert a BPM into milliseconds delay.
+One should be able to select a multiple of the BPM such that if our
+BPM is 60:;
+#X text 65 139 Quarter note: 60;
+#X text 63 159 Eighth note: 120;
+#X text 64 178 Dotted quarter: 90;
+#X text 64 198 Etc. Include at least four possible choices;
+#X text 15 237 These values need to be converted to milliseconds to
+work with delay lines. The trick will be dealing with multiple taps
+and ensuring that they don't step on each others toes while remaning
+synchronized.;
+#X restore 772 94 pd myDelaySynchronizer;
+#X obj 923 25 vradio 15 1 0 4 empty empty empty 0 -8 0 10 -262144 -1
+-1 0;
+#X text 944 39 Note duration selector;
+#X obj 964 135 vradio 15 1 0 4 empty empty empty 0 -8 0 10 -262144
+-1 -1 1;
+#X text 985 149 Note duration selector;
+#N canvas 430 539 650 452 myModulationSynchronizer 0;
+#X obj 28 27 inlet bpm;
+#X obj 488 26 inlet noteLength;
+#X text 65 139 Quarter note: 60;
+#X text 63 159 Eighth note: 120;
+#X text 64 178 Dotted quarter: 90;
+#X text 64 198 Etc. Include at least four possible choices;
+#X text 15 85 This part should convert a BPM into frequency that is
+synchronized to the beat in BPM. One should be able to select a multiple
+of the BPM such that if our BPM is 60:;
+#X text 22 242 These values need to be converted to frequency to work
+with an LFO. The trick will be to ensure it is synchronized correctly
+and not "out of phase". HINT: use the right inlets of [osc~] or [phasor~]
+to reset the phase manually...;
+#X obj 30 356 outlet frequency;
+#X text 199 330 BPM 60 = 1s = 1Hz;
+#X text 199 354 BPM 120 = 0.5s = 2Hz;
+#X restore 813 204 pd myModulationSynchronizer;
+#X obj 724 32 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 0 1;
+#X text 705 9 feedback;
+#X text 20 245 EXTRA CREDIT (5pts): control the BPM with a [phasor~]
+and use that to control the synchronization of the delay and the modulation.
+[samphold~] is your friend.;
+#X text 20 116 Make a multitapped delay (at least two taps) that are
+synchronized according to a BPM. Feed the output of the delay into
+a flanger or chorus whose modulation is also synchronized to the BPM.
+Make some presets.;
+#X text 23 50 Homework 3 -- due on Thursday \, May 14 (two weeks);
+#X connect 0 0 1 0;
+#X connect 0 0 12 0;
+#X connect 1 0 3 0;
+#X connect 2 0 1 1;
+#X connect 5 0 7 0;
+#X connect 6 0 5 1;
+#X connect 9 0 5 0;
+#X connect 10 0 13 0;
+#X connect 10 0 18 0;
+#X connect 12 0 9 0;
+#X connect 13 0 12 2;
+#X connect 14 0 13 1;
+#X connect 16 0 18 1;
+#X connect 18 0 9 1;
+#X connect 19 0 12 1;
