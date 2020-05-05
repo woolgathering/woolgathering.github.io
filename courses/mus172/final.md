@@ -4,7 +4,7 @@ permalink: /courses/mus172/final
 ---
 # Music 172 - Final Prompt
 
-The final project should contain a substantial amount of DSP processing via synthesis, analysis, manipulation, or the like. That being said, the final does not necessarily have to use material we've directly covered in class but should in some way utilize the core concepts, ideas, or techniques. I'm thinking specifically of someone who wants to learn to use the GEM visuals library in Pd. Collaboration with classmates is accepted so long as each contributor provides a necessary and substantial contribution to the final project.
+The final project should contain a substantial amount of DSP processing via synthesis, analysis, manipulation, or the like. That being said, the final does not necessarily have to use material we've directly covered in class but should in some way utilize the core concepts, ideas, or techniques. I'm thinking specifically of someone who wants to learn to use the GEM visuals library in Pd and control them via sound. Collaboration with classmates is accepted so long as each contributor provides a necessary and substantial contribution to the final project.
 
 I encourage you all to think about your aesthetic and technical interests and to propose a project which follows those in some way. The most useful projects will not only teach you something but will also have life after the end of the course.
 
