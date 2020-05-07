@@ -40,4 +40,7 @@ I could show you several pieces which stand as important milestones in electroni
   - [Listen](https://www.youtube.com/watch?v=pZUB5iSEifI), [Wiki](https://en.wikipedia.org/wiki/Come_Out_(Reich))
 - Karlheinz Stockhausen: Gesang der Jünglinge (1955-56)
   - The first work considered a masterpiece in electronic music
-  - [Listen]https://www.youtube.com/watch?v=nffOJXcJCDg(), [Wiki](https://en.wikipedia.org/wiki/Gesang_der_J%C3%BCnglinge)
+  - [Listen](https://www.youtube.com/watch?v=nffOJXcJCDg), [Wiki](https://en.wikipedia.org/wiki/Gesang_der_J%C3%BCnglinge)
+
+### Texts
+- [Steve Reich: Music as a Gradual Process](http://musicgrad.ucsd.edu/~dwd/2014_music14/reich.pdf)
