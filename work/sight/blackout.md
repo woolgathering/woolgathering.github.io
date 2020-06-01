@@ -9,16 +9,17 @@ Recent experiments have yielded some interesting results...
 
 ### Postcard (2020)
 <d1>
-  <!-- <div class="row"> -->
-  <div class="twoColumn">
-  <a href="blackout/postcard_front.jpg">
-    <img src="blackout/postcard_front.jpg" alt="postcard front" style="width:100%">
-  </a>
-  </div>
-  <div class="twoColumn">
-    <a href="blackout/postcard_back.jpg">
-      <img src="blackout/postcard_back.jpg" alt="postcard back style="width:100%">
+  <div class="row">
+    <div class="twoColumn">
+    <a href="blackout/postcard_front.jpg">
+      <img src="blackout/postcard_front.jpg" alt="postcard front" style="width:100%">
     </a>
+    </div>
+    <div class="twoColumn">
+      <a href="blackout/postcard_back.jpg">
+        <img src="blackout/postcard_back.jpg" alt="postcard back style="width:100%">
+      </a>
+    </div>
   </div>
 </d1>
 
