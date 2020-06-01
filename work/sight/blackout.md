@@ -11,9 +11,9 @@ Recent experiments have yielded some interesting results...
 <d1>
   <div class="row">
     <div class="twoColumn">
-    <a href="blackout/postcard_front.jpg">
-      <img src="blackout/postcard_front.jpg" alt="postcard front" style="width:100%">
-    </a>
+      <a href="blackout/postcard_front.jpg">
+        <img src="blackout/postcard_front.jpg" alt="postcard front" style="width:100%">
+      </a>
     </div>
     <div class="twoColumn">
       <a href="blackout/postcard_back.jpg">
