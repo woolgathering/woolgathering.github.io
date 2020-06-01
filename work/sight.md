@@ -26,7 +26,7 @@ permalink: /work/sight
 
 </d1> -->
 
-[Blackout](./sight/blackout) (ongoing) <<br/>
+[Blackout](./sight/blackout) (ongoing) <br/>
 &nbsp;&nbsp;old sheet music, paint
 
 ## Animation
