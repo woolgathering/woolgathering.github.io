@@ -23,8 +23,11 @@ Recent experiments have yielded some interesting results...
 </d1>
 
 <br/>
+<br/>
 
 ### Sampler - 1972 (work in progress)
 <d1>
-   <img src="blackout/sampler1972.jpg" alt="sampler workstation">
+  <a href="blackout/sampler1972.jpg">
+    <img src="blackout/sampler1972.jpg" alt="postcard back style="width:100%">
+  </a>
 </d1>
