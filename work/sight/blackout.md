@@ -5,7 +5,7 @@ permalink: /work/sight/blackout
 
 # Blackout (ongoing)
 
-Recent experiments have yields some interesting results...
+Recent experiments have yielded some interesting results...
 
 ### Postcard (2020)
 <d1>
@@ -26,5 +26,5 @@ Recent experiments have yields some interesting results...
 
 ### Sampler - 1972 (work in progress)
 <d1>
-   <img src="blackout/sampler1972.jpg" alt="sampler workstation"> 
+   <img src="blackout/sampler1972.jpg" alt="sampler workstation">
 </d1>

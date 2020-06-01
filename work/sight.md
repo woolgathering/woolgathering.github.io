@@ -26,6 +26,9 @@ permalink: /work/sight
 
 </d1> -->
 
+[Blackout](./sight/blackout) (ongoing) <<br/>
+&nbsp;&nbsp;old sheet music, paint
+
 ## Animation
 
 [_Thoughts on Rorschach_](./sight/rorschach) (2015) <br/>
