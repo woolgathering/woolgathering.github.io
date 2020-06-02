@@ -19,21 +19,21 @@ _keep me from going crazy_ (2018) -->
         <img src="../../images/work/stills/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)" width="100%" >
         <figcaption> "keep me from going crazy (2018)"</figcaption>
       </a> -->
-      <div class="thumbnail_small">
         <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
+        <div class="thumbnail">
           <img src="../../images/work/stills/keepMeFromGoingCrazy.png">
+        </div>
         </a>
-      </div>
       <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
         <figcaption>keep me from going crazy (2018)</figcaption>
       </a>
     </div>
     <div class="twoColumn">
-      <div class="thumbnail_small">
         <a href="../../images/work/stills/eclipse.jpg">
+        <div class="thumbnail">
           <img src="../../images/work/stills/eclipse.jpg">
+          </div>
         </a>
-      </div>
       <a href="../../images/work/stills/eclipse.jpg">
         <figcaption>eclipse (2015)</figcaption>
       </a>
@@ -43,11 +43,11 @@ _keep me from going crazy_ (2018) -->
 
   <div class="row">
     <div class="twoColumn">
-      <div class="thumbnail_small">
         <a href="../../images/work/stills/circle.jpg">
+        <div class="thumbnail">
           <img src="../../images/work/stills/circle.jpg">
+          </div>
         </a>
-      </div>
       <a href="../../images/work/stills/circle.jpg">
         <figcaption>untitled (2018)</figcaption>
       </a>
