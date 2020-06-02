@@ -7,20 +7,22 @@ permalink: /work/sight/onceinawhile
 &nbsp;&nbsp;&nbsp;&nbsp;<d><smaller>-8-channel sound, LED lights, blankets, pillows, curtains</smaller></d>
 
 <d1>
-<div class="thumbnail">
   <div class="row">
+  <div class="thumbnail">
     <div class="twoColumn">
       <a href="../../../images/work/everyonceinawhile/panorama.jpg">
         <img src="../../../images/work/everyonceinawhile/panorama.jpg" alt="postcard front">
       </a>
     </div>
+    </div>
+    <div class="thumbnail">
     <div class="twoColumn">
       <a href="../../../images/work/everyonceinawhile/zine.jpg">
         <img src="../../../images/work/everyonceinawhile/zine.jpg" alt="postcard front">
       </a>
     </div>
+    </div>
   </div>
-</div>
 </d1>
 
 <br/>
