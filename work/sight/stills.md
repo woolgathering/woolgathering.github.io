@@ -19,7 +19,7 @@ _keep me from going crazy_ (2018) -->
         <img src="../../images/work/stills/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)" width="100%" >
         <figcaption> "keep me from going crazy (2018)"</figcaption>
       </a> -->
-      <div class="thumbnail">
+      <div class="thumbnail_small">
         <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
           <img src="../../images/work/stills/keepMeFromGoingCrazy.png">
         </a>
@@ -29,7 +29,7 @@ _keep me from going crazy_ (2018) -->
       </a>
     </div>
     <div class="twoColumn">
-      <div class="thumbnail">
+      <div class="thumbnail_small">
         <a href="../../images/work/stills/eclipse.jpg">
           <img src="../../images/work/stills/eclipse.jpg">
         </a>
@@ -43,7 +43,7 @@ _keep me from going crazy_ (2018) -->
 
   <div class="row">
     <div class="twoColumn">
-      <div class="thumbnail">
+      <div class="thumbnail_small">
         <a href="../../images/work/stills/circle.jpg">
           <img src="../../images/work/stills/circle.jpg">
         </a>
