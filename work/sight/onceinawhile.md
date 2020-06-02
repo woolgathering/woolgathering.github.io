@@ -8,15 +8,15 @@ permalink: /work/sight/onceinawhile
 
 <d1>
   <div class="row">
-  <div class="thumbnail">
     <div class="twoColumn">
+    <div class="thumbnail">
       <a href="../../../images/work/everyonceinawhile/panorama.jpg">
         <img src="../../../images/work/everyonceinawhile/panorama.jpg" alt="postcard front">
       </a>
     </div>
     </div>
-    <div class="thumbnail">
     <div class="twoColumn">
+    <div class="thumbnail">
       <a href="../../../images/work/everyonceinawhile/zine.jpg">
         <img src="../../../images/work/everyonceinawhile/zine.jpg" alt="postcard front">
       </a>
