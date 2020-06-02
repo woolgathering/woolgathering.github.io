@@ -5,7 +5,7 @@ permalink: /work/sight/blackout
 
 # Blackout (ongoing)
 
-Recent experiments have yielded some interesting results...
+Recent experiments have yielded interesting results...
 
 ### Postcard (2020)
 <d1>
