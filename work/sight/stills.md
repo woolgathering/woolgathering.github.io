@@ -13,55 +13,24 @@ _eclipse_ (2015)
 _keep me from going crazy_ (2018) -->
 
 <d1>
-  <div class="row">
-    <div class="twoColumn">
-      <!-- <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
-        <img src="../../images/work/stills/keepMeFromGoingCrazy.png" alt="keep me from going crazy (2018)" width="100%" >
-        <figcaption> "keep me from going crazy (2018)"</figcaption>
-      </a> -->
-        <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
-        <div class="thumbnail">
-          <img src="../../images/work/stills/keepMeFromGoingCrazy.png">
-        </div>
-        </a>
-      <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
-        <figcaption>keep me from going crazy (2018)</figcaption>
-      </a>
-    </div>
-    <div class="twoColumn">
-        <a href="../../images/work/stills/eclipse.jpg">
-        <div class="thumbnail">
-          <img src="../../images/work/stills/eclipse.jpg">
-          </div>
-        </a>
-      <a href="../../images/work/stills/eclipse.jpg">
-        <figcaption>eclipse (2015)</figcaption>
-      </a>
-    </div>
-  </div>
+  <a href="../../images/work/stills/keepMeFromGoingCrazy.png">
+    <img src="../../images/work/stills/keepMeFromGoingCrazy.png">
+    <figcaption>keep me from going crazy (2018)</figcaption>
+  </a>
+</d1>
+</br></br>
 
+<d1>
+  <a href="../../images/work/stills/eclipse.jpg">
+    <img src="../../images/work/stills/eclipse.jpg">
+    <figcaption>eclipse (2015)</figcaption>
+  </a>
+</d1>
+</br></br>
 
-  <div class="row">
-    <div class="twoColumn">
-        <a href="../../images/work/stills/circle.jpg">
-        <div class="thumbnail">
-          <img src="../../images/work/stills/circle.jpg">
-          </div>
-        </a>
-      <a href="../../images/work/stills/circle.jpg">
-        <figcaption>untitled (2018)</figcaption>
-      </a>
-    </div>
-    <div class="twoColumn">
-      <!-- <div class="thumbnail">
-        <a href="../../images/work/stills/eclipse.jpg">
-          <img src="../../images/work/stills/eclipse.jpg">
-        </a>
-      </div>
-      <a href="../../images/work/stills/eclipse.jpg">
-        <figcaption> "eclipse (2015)"</figcaption>
-      </a> -->
-    </div>
-  </div>
-
+<d1>
+  <a href="../../images/work/stills/circle.jpg">
+    <img src="../../images/work/stills/circle.jpg">
+    <figcaption>untitled (2018)</figcaption>
+  </a>
 </d1>
