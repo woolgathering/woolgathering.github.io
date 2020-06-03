@@ -18,7 +18,7 @@ permalink: /work/sight/onceinawhile
     <div class="twoColumn">
     <div class="thumbnail">
       <a href="../../../images/work/everyonceinawhile/zine.jpg">
-        <img src="../../../images/work/everyonceinawhile/zine.jpg" alt="postcard front">
+        <img.portrait src="../../../images/work/everyonceinawhile/zine.jpg" alt="postcard front">
       </a>
     </div>
     </div>
