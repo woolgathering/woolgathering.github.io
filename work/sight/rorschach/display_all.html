@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  -ms-flex: 100%; /* IE 10 */
+  flex: 100%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+img.animated-gif{
+  width: 33%;
+  height: 99%;
+  object-fit: cover;
+}
+
+</style>
+</head>
+<body style="background-color:black;">>
+
+<button onclick="openFullscreen();">Open in Fullscreen Mode</button>
+
+<!-- Photo Grid -->
+<div class="row" id="gifs">
+  <div class="column">
+    <img class="animated-gif" src="sundstrom_rorschach1.gif">
+    <img class="animated-gif" src="sundstrom_rorschach2.gif">
+    <img class="animated-gif" src="sundstrom_rorschach3.gif">
+  </div>
+  <div class="column">
+    <img class="animated-gif" src="sundstrom_rorschach4.gif">
+    <img class="animated-gif" src="sundstrom_rorschach5.gif">
+    <img class="animated-gif" src="sundstrom_rorschach6.gif">
+  </div>
+</div>
+
+<script>
+var elem = document.getElementById("gifs");
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.mozRequestFullScreen) { /* Firefox */
+    elem.mozRequestFullScreen();
+  } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE/Edge */
+    elem.msRequestFullscreen();
+  }
+}
+</script>
+
+</body>
+</html>

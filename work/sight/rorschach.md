@@ -12,14 +12,14 @@ Using my own brainwaves, I play the part of both the psychologist and psychologi
 <d1>
   <div class="row">
     <div class="twoColumn">
-    <a href="../../../images/work/rorschach/sundstrom_rorschach1.gif">
+    <a href="rorschach/sundstrom_rorschach1.gif">
       <div class="thumbnail">
         <img src="../../../images/work/rorschach/rorschach1.jpg" alt="rorschach 1" style="width:100%">
       </div>
     </a>
     </div>
     <div class="twoColumn">
-      <a href="../../../images/work/rorschach/sundstrom_rorschach2.gif">
+      <a href="rorschach/sundstrom_rorschach2.gif">
         <div class="thumbnail">
           <img src="../../../images/work/rorschach/rorschach2.jpg" alt="rorschach 2" style="width:100%">
         </div>
@@ -29,14 +29,14 @@ Using my own brainwaves, I play the part of both the psychologist and psychologi
 
   <div class="row">
     <div class="twoColumn">
-    <a href="../../../images/work/rorschach/sundstrom_rorschach3.gif">
+    <a href="rorschach/sundstrom_rorschach3.gif">
       <div class="thumbnail">
         <img src="../../../images/work/rorschach/rorschach3.jpg" alt="rorschach 1" style="width:100%">
       </div>
     </a>
     </div>
     <div class="twoColumn">
-      <a href="../../../images/work/rorschach/sundstrom_rorschach4.gif">
+      <a href="rorschach/sundstrom_rorschach4.gif">
         <div class="thumbnail">
           <img src="../../../images/work/rorschach/rorschach4.jpg" alt="rorschach 2" style="width:100%">
         </div>
@@ -45,6 +45,8 @@ Using my own brainwaves, I play the part of both the psychologist and psychologi
   </div>
 </d1>
 <br/>
+
+See the first six as displahyed at _Rising Tide_ [here](rorschach/display_all.html).
 
 ### _Exhibition History_
 
