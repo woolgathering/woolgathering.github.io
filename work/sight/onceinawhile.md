@@ -30,6 +30,8 @@ permalink: /work/sight/onceinawhile
 
 An ongoing series of overnight, quasi-realtime performance-installations that turn the bio-potentials of the brain during sleep into sound. Pre-scored, research grade hypnograms and EEG are analyzed analyzed and used to guide the work throughout the night beginning at sundown or ending at sunrise. The pieces last as long as the subject being analyzed sleeps and we follow their sleep patterns throughout the night, wake when they wake, dream when they dream. Participants are invited (encouraged) to bring pillows and/or blankets and to sleep during the performance.
 
+A page from the zine accompanying the first iteration is displayed above. Poetry by [Medic](http://poetry.sangamhouse.org/2016/07/zachary-bushnell/) for all versions.
+
 The work uses EEG and hynograms from the [CAP Database](https://physionet.org/physiobank/database/capslpdb/).
 
 ### Listen
