@@ -17,7 +17,7 @@ _keep me from going crazy_ (2018) -->
     <img src="../../images/work/stills/keepMeFromGoingCrazy.png">
     <figcaption>keep me from going crazy (2018)</figcaption>
   </a>
-  </br>
+  <br/>
 </d1>
 
 <d1>
@@ -25,7 +25,7 @@ _keep me from going crazy_ (2018) -->
     <img src="../../images/work/stills/eclipse.jpg">
     <figcaption>eclipse (2015)</figcaption>
   </a>
-  </br>
+  <br/>
 </d1>
 
 <d1>
@@ -33,5 +33,5 @@ _keep me from going crazy_ (2018) -->
     <img src="../../images/work/stills/circle.jpg">
     <figcaption>untitled (2018)</figcaption>
   </a>
-  </br>
+  <br/>
 </d1>

@@ -9,23 +9,22 @@ permalink: /work/sight/onceinawhile
 <d1>
   <div class="row">
     <div class="twoColumn">
-    <div class="thumbnail">
       <a href="../../../images/work/everyonceinawhile/panorama.jpg">
+      <div class="thumbnail">
         <img src="../../../images/work/everyonceinawhile/panorama.jpg" alt="postcard front">
+        </div>
       </a>
-    </div>
     </div>
     <div class="twoColumn">
-    <div class="thumbnail">
       <a href="../../../images/work/everyonceinawhile/zine.jpg">
+      <div class="thumbnail">
         <img src="../../../images/work/everyonceinawhile/zine.jpg" alt="postcard front" style="width:100%; height:auto">
+        </div>
       </a>
-    </div>
     </div>
   </div>
 </d1>
 
-<br/>
 <br/>
 
 
