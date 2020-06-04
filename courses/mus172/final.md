@@ -25,8 +25,8 @@ If you propose something very difficult or that has not yet been attempted in th
 - Build a DSP-related tool that fulfills a function in another, larger, project.
 - This list is not exhaustive and if you have something else in mind we can almost certainly make it work.
 
-__Finals are due on June 13, 2020 at 11:59pm. Turn them in as you would any other assignment. In contrast to the lax attitude we've had throughout the quarter regarding paths for sound files, abstractions, etc, you will be deducted points for patches that fail to run correctly due to pathing issues. For externals, just note what externals you used so we can install them for our own operating system (your binaries may not work on our machines).
+__Finals are due on June 13, 2020 at 11:59pm. Turn them in as you would any other assignment. In contrast to the lax attitude we've had throughout the quarter regarding paths for sound files, abstractions, etc, you will be deducted points for patches that fail to run correctly due to pathing issues. For externals, just note what externals you used so we can install them for our own operating system (your binaries may not work on our machines).__
 
-If you were not able to fulfill what you set out to do in your proposal, please include a short writeup on what the difficulties were and how you might go about solving it were you to have more time. You won't lose points for not acheiving what you set out to do (it means it was a good challenge!) but I'm asking you to justify and explain what the difficulties were. Again, a proof of concept, if that's all it turns out to be, is absolutely acceptable.
+__If you were not able to fulfill what you set out to do in your proposal, please include a short writeup on what the difficulties were and how you might go about solving it were you to have more time. You won't lose points for not acheiving what you set out to do (it means it was a good challenge!) but I'm asking you to justify and explain what the difficulties were. Again, a proof of concept, if that's all it turns out to be, is absolutely acceptable.__
 
-All finals will require a demo (live performance, sequence, etc). Please submit this (video, sound) with your patch.__
+__All finals will require a demo (live performance, sequence, etc). Please submit this (video, sound) with your patch.__
