@@ -21,7 +21,7 @@ DISCLAIMER: This course may be detrimental to composers who may become so enthra
 ## Materials and Tools
 There are no required textbooks for this course. However, there is a significant list of required listening, a shorter list of required reading, and a further list of recommended perusing below. Keep in mind that this list is not necessarily complete; any and all updates will be posted to the course website. A simple program will also be made available such that scales can be created, heard, and etudes can be written.
 
-#### Recommended Perusing
+### Recommended Perusing
 Hermann von Helmholtz, On the Sensations of Tone
 Harry Partch, Genesis of a Music
 William Sethares, Tuning, Timbre, Spectrum, Scale
@@ -29,35 +29,35 @@ Jan Haluska, The Mathematical Theory of Tone Systems
 The Cambridge History of Western Music Theory, ed. Thomas Christensen
 James Frederic Mountford, The Musical Scales of Plato's Republic
 
-#### Listening
+### Listening
 Pythagorean Tuning
 Harry Partch: Two Studies on Ancient Greek Scales
 
-##### Just Intonation
+#### Just Intonation
 Harry Partch: Delusion of the Fury
 Lou Harrison: String Quartet Set
 La Monte Young: The Well-Tuned Piano
 Syzygys (band)
 
-##### Meantone Temperament
+#### Meantone Temperament
 J.S. Bach: Toccata and Fugue in D minor (meantone organ)
 Vito Trasuntino (31 tone extended meantone, very close to 31TeT)
 
-##### Well Temperament
+#### Well Temperament
 J.S. Bach: The Well-Tempered Clavier
 
-##### 8TeT
+#### 8TeT
 Gordon Mumma: Octal Waltz
 
-##### 19TeT
+#### 19TeT
 Fabio Costa: Meditation
 
-##### 31TeT
+#### 31TeT
 Vito Trasuntino (31 tone extended meantone, very close to 31TeT)
 Nicola Vicentino (31 tone extended meantone, very close to 31TeT)
 Fabio Costa: Aphoristic Madrigal
 
-#### Tuning Programs
+### Tuning Programs
 Sean Archibald made an [excellent browser-based tuning program](https://sevish.com/scaleworkshop/) that allows one to load, save, and create scales. Since my web development skills are virtually non-existent, we'll be using his creation. Most of the scales, however common, will be created by hand in this class.
 
 If you’re really ambitious and computer savvy, you can try to build Scala (http://www.huygens-fokker.org/scala/). It’s very fun to work with and it easily connects with MIDI controllers.
