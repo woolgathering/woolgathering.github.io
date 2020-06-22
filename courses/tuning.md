@@ -2,7 +2,7 @@
 layout: default
 permalink: /courses/tuning
 ---
-# Music 172 - Computer Music II
+# Music 80 - Tuning and Temperament
 
 _Instructor_<br/>
 Jacob Sundstrom: jlsundst [at] ucsd [dot] edu <br/>
