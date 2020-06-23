@@ -35,32 +35,26 @@ James Frederic Mountford, The Musical Scales of Plato's Republic <br/>
 The Cambridge History of Western Music Theory, ed. Thomas Christensen <br/>
 
 ### Listening
-Pythagorean Tuning<br/>
-[Harry Partch: Two Studies on Ancient Greek Scales](https://www.youtube.com/watch?v=GglpEGSXpXo)<br/>
-
-#### Just Intonation
-[Harry Partch: Delusion of the Fury](https://www.youtube.com/watch?v=aMQ7oeIvhkA)<br/>
-[Lou Harrison: String Quartet Set](https://www.youtube.com/watch?v=9MLvNrn0y9I)<br/>
-[La Monte Young: The Well-Tuned Piano](https://www.youtube.com/watch?v=nU8UHQLQ0Qs)<br/>
-[Syzygys (band)](https://www.youtube.com/watch?v=cA9AXvD09CM)<br/>
-
-#### Meantone Temperament
-[J.S. Bach: Toccata and Fugue in D minor (meantone organ)](https://www.youtube.com/watch?v=dHOcCLvUeH4)<br/>
-Vito Trasuntino (31 tone extended meantone, very close to 31TeT)<br/>
-
-#### Well Temperament
-[J.S. Bach: The Well-Tempered Clavier](https://www.youtube.com/watch?v=RG3gTPalrls)<br/>
-
-#### 8TeT
-Gordon Mumma: Octal Waltz <br/>
-
-#### 19TeT
-Fabio Costa: Meditation <br/>
-
-#### 31TeT
-Vito Trasuntino (31 tone extended meantone, very close to 31TeT) <br/>
-Nicola Vicentino (31 tone extended meantone, very close to 31TeT) <br/>
-[Fabio Costa: Aphoristic Madrigal](https://www.youtube.com/watch?v=Lq9-6NnXPVg) <br/>
+- Pythagorean Tuning
+  - [Harry Partch: Two Studies on Ancient Greek Scales](https://www.youtube.com/watch?v=GglpEGSXpXo)<br/>
+- Just Intonation
+  - [Harry Partch: Delusion of the Fury](https://www.youtube.com/watch?v=aMQ7oeIvhkA)<br/>
+  - [Lou Harrison: String Quartet Set](https://www.youtube.com/watch?v=9MLvNrn0y9I)<br/>
+  - [La Monte Young: The Well-Tuned Piano](https://www.youtube.com/watch?v=nU8UHQLQ0Qs)<br/>
+  - [Syzygys (band)](https://www.youtube.com/watch?v=cA9AXvD09CM)<br/>
+-Meantone Temperament
+  - [J.S. Bach: Toccata and Fugue in D minor (meantone organ)](https://www.youtube.com/watch?v=dHOcCLvUeH4)<br/>
+  - Vito Trasuntino (31 tone extended meantone, very close to 31TeT)<br/>
+- Well Temperament
+  - [J.S. Bach: The Well-Tempered Clavier](https://www.youtube.com/watch?v=RG3gTPalrls)<br/>
+- 8TeT
+  - Gordon Mumma: Octal Waltz <br/>
+- 19TeT
+  - Fabio Costa: Meditation <br/>
+- 31TeT
+  - Vito Trasuntino (31 tone extended meantone, very close to 31TeT) <br/>
+  - Nicola Vicentino (31 tone extended meantone, very close to 31TeT) <br/>
+  - [Fabio Costa: Aphoristic Madrigal](https://www.youtube.com/watch?v=Lq9-6NnXPVg) <br/>
 
 ### Tuning Programs
 Sean Archibald made an [excellent browser-based tuning program](https://sevish.com/scaleworkshop/) that allows one to load, save, and create scales. Since my web development skills are virtually non-existent, we'll be using his creation. Most of the scales, however common, will be created by hand in this class.
