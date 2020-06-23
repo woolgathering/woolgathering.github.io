@@ -42,7 +42,7 @@ There are no required textbooks for this course although there is a significant 
   - [Lou Harrison: String Quartet Set](https://www.youtube.com/watch?v=9MLvNrn0y9I)
   - [La Monte Young: The Well-Tuned Piano](https://www.youtube.com/watch?v=nU8UHQLQ0Qs)
   - [Syzygys (band)](https://www.youtube.com/watch?v=cA9AXvD09CM)
--Meantone Temperament
+- Meantone Temperament
   - [J.S. Bach: Toccata and Fugue in D minor (meantone organ)](https://www.youtube.com/watch?v=dHOcCLvUeH4)
   - Vito Trasuntino (31 tone extended meantone, very close to 31TeT)
 - Well Temperament
