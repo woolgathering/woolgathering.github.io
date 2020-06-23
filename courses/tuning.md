@@ -94,7 +94,7 @@ Attending class is critical to have a firm grasp of the material. You will be gr
 ## Classes
 
 ### Week 1
-#### [Tuesday]
+#### Tuesday
 - Introduction to the course including the syllabus, expectations, and general housekeeping.
 - The harmonic series
   - The fundamental building block of traditional musical harmony and the phenomenon from whence scales are traditionally constructed.

@@ -7,4 +7,4 @@ permalink: /courses
 [Music 172 - Computer Music II (Spring 2020)](./courses/mus172)
 
 
-[Music 80 - Tuning and Temperament (Summer Session I 2020)](http://notthatintomusic.com)
+[Music 80 - Tuning and Temperament (Summer Session I 2020)](./courses/tuning)
