@@ -12,9 +12,9 @@ Office hours: Tuesday after class (4-5p -ish) or by appointment
 _Schedule_<br/>
 Lecture: Tuesday & Thursdays, 2-330p
 
-.......................................................................<br/>
+.....................................................................<br/>
 __Note:__ Although we are slated for three-hour sessions twice weekly, I do not expect any of us (myself included) to remain sentient enough to overcome any diminishing returns after about 90 minutes of "Zoom time". Therefore, unless there are a majority of objections, we will have approximately 90-minute classes with listening and response assignments for every day we would meet. We can discuss this further on the first day of class.<br/>
-.......................................................................
+.....................................................................
 
 While we in the West have become accustomed to 12-tone equal temperament, the issue of musical tuning has a complex history with many avenues explored, settled upon and abandoned. This course will present an overview of various tuning and temperament systems that have been and are used in Western music. Included are equal temperament, just intonation, meantone temperament, well temperament, and exotic flavors of scales, some purely theoretical. There will be a significant listening portion to the course, focused primarily on musical examples. A list is given below.
 
@@ -69,7 +69,6 @@ If you’re really ambitious and computer savvy, you can try to build Scala (htt
 
 ## Grading Information
 
-### Grading Criteria
 - 10% discussion and participation
 - 50% assignments (x4, plus twice-weekly listening responses)
 - 40% final
@@ -77,26 +76,20 @@ If you’re really ambitious and computer savvy, you can try to build Scala (htt
 ### Assignments
 Weekly assignments will consist of scale construction or creation exercises, written discussions, and/or etudes written in the tuning systems we study.
 
-__IF YOU'RE READING THIS BEFORE JUNE 29, ASSIGNMENTS MAY (PROBABLY WILL, MAYBE, MIGHT) CHANGE.__
+__IF YOU'RE READING THIS BEFORE JUNE 29, ASSIGNMENTS MAY (PROBABLY WILL, MAYBE, MIGHT, NOT SURE) CHANGE.__
 
-__Assignment 1__<br/>
-In exactly one single-spaced page, describe the problem of tuning and Pythagoras’ attempt to solve it. What is the primary interval in Pythagorean tuning? How did he deal with the comma?
+- __Assignment 1__: In exactly one single-spaced page, describe the problem of tuning and Pythagoras’ attempt to solve it. What is the primary interval in Pythagorean tuning? How did he deal with the comma?
+- __Assignment 2__: Using an extant justly tuned scale or one of your own creation, write a short etude that exploits idiosyncratic properties of the scale. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
+- __Assignment 3__: Using a variation of meantone, well-temperament, or equal temperament (not 12TeT), create a short polyphonic etude. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
+- __Assignment 4__: Write a short proposal for your final project including the format and topic. Due by the end of week 4.
 
-__Assignment 2__<br/>
-Using an extant justly tuned scale or one of your own creation, write a short etude that exploits idiosyncratic properties of the scale. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
-
-__Assignment 3__<br/>
-Using a variation of meantone, well-temperament, or equal temperament (not 12TeT), create a short polyphonic etude. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
-
-__Assignment 4__<br/>
-Write a short proposal for your final project including the format and topic. Due by the end of week 4.
-Late or Missing Assignments
-Given the extremely short summer session, late assignments will not be accepted without forewarning. Plan accordingly.
-
-__Final Project__<br/>
+### Final Project
 The final project will consist of one of two things: a short research paper (8 pages, 12 point font, double-spaced) on a temperment discussed, including its history, implications, and usage; or a longer etude (~3 minutes) using a temperament of your own creation. The latter must be accompanied by an equally brief discussion of the tuning system and its implications (2-3 pages, 12 point font, double-spaced).  These papers should also include diagrams as needed. __FINAL PROJECT IS DUE THE SATURDAY OF WEEK 5 BY 11:59PM PST.__
 
 For those that choose an etude, you will be showing it in the final class of the session although the completed project (etude + short paper) is due on Saturday. For those that choose a research paper, you will have a short (≈15min) presentation on your topic. Prepare accordingly.
+
+### Late or Missing Assignments
+Given the extremely short summer session, late assignments will not be accepted without adequate forewarning. Plan accordingly.
 
 ### Grading Procedure and Feedback
 Students are graded on an absolute scale and are expected to complete all assignments on time. Assignments will typically be assigned on the last meeting that takes place during the week and will be due at the first meeting in the following week (i.e. class is Tuesday/Thursday. Assigned Thursday, due Tuesday). Every effort will be made to provide useful feedback in a timely manner.
