@@ -90,3 +90,17 @@ Students are graded on an absolute scale and are expected to complete all assign
 
 ### Attendance and Participation
 Attending class is critical to have a firm grasp of the material. You will be graded on your participation in in-class discussions which mandates your appearance in class.
+
+## Classes
+
+### Week 1
+#### [Tuesday]
+- Introduction to the course including the syllabus, expectations, and general housekeeping.
+- The harmonic series
+  - The fundamental building block of traditional musical harmony and the phenomenon from whence scales are traditionally constructed.
+  - [Wiki](https://en.wikipedia.org/wiki/Harmonic_series_(music))
+  - The mathematical concept is virtually the same.
+- So if we have the harmonic series to know what pitches are "in tune" with one another, what's the problem? Why is tuning a thing at all?
+  - Things don't actually work out between the ear and mathematics.
+  - The comma: what is it and why does it matter?
+- The Pythagorean comma
