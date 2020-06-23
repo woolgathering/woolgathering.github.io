@@ -23,16 +23,16 @@ To maximize your chances of success in this course you should understand basic m
 _DISCLAIMER_: This course may be detrimental to composers who may become so enthralled at new possibilities that they eventually find themselves in remote regions of musical thought, alone, with neither sustenance nor shelter.
 
 ## Materials and Tools
-There are no required textbooks for this course though I will assign (and provide) occasional readings, often from Barbour's _Tuning and Temperament_. However, there is a significant list of required listening, a shorter list of required reading, and a further list of recommended perusing below. Keep in mind that this list is not necessarily complete; any and all updates will be posted to the course website. A simple program will also be made available such that scales can be created, heard, and etudes can be written.
+There are no required textbooks for this course although there is a significant list of required listening, a shorter list of required reading (often from Barbour), and a further list of recommended perusing below. Keep in mind that this list is not necessarily complete; any and all updates will be posted to the course website. A simple program will also be made available such that scales can be created, heard, and etudes can be written.
 
 ### Recommended Perusing
-[J. Murray Barbour, Tuning and Temperament ](https://www.amazon.com/Tuning-Temperament-Historical-Survey-Dover/dp/0486434060)
-[Hermann von Helmholtz, On the Sensations of Tone](https://openlibrary.org/books/OL2668992M/On_the_sensations_of_tone_as_a_physiological_basis_for_the_theory_of_music)
-[Harry Partch, Genesis of a Music](https://monoskop.org/images/b/be/Partch_Harry_Genesis_of_a_Music_2nd_ed.pdf)
-[William Sethares, Tuning, Timbre, Spectrum, Scale](https://www.amazon.com/Tuning-Timbre-Spectrum-William-Sethares/dp/1852337974)
-[Jan Haluska, The Mathematical Theory of Tone Systems](https://www.amazon.com/Mathematical-Systems-Chapman-Applied-Mathematics/dp/0824747143)
-James Frederic Mountford, The Musical Scales of Plato's Republic
-The Cambridge History of Western Music Theory, ed. Thomas Christensen
+- [J. Murray Barbour, Tuning and Temperament ](https://www.amazon.com/Tuning-Temperament-Historical-Survey-Dover/dp/0486434060)
+- [Hermann von Helmholtz, On the Sensations of Tone](https://openlibrary.org/books/OL2668992M/On_the_sensations_of_tone_as_a_physiological_basis_for_the_theory_of_music)
+- [Harry Partch, Genesis of a Music](https://monoskop.org/images/b/be/Partch_Harry_Genesis_of_a_Music_2nd_ed.pdf)
+- [William Sethares, Tuning, Timbre, Spectrum, Scale](https://www.amazon.com/Tuning-Timbre-Spectrum-William-Sethares/dp/1852337974)
+- [Jan Haluska, The Mathematical Theory of Tone Systems](https://www.amazon.com/Mathematical-Systems-Chapman-Applied-Mathematics/dp/0824747143)
+- James Frederic Mountford, The Musical Scales of Plato's Republic
+- The Cambridge History of Western Music Theory, ed. Thomas Christensen
 
 ### Listening
 - Pythagorean Tuning
@@ -63,6 +63,8 @@ If you’re really ambitious and computer savvy, you can try to build Scala (htt
 
 ## Grading Information
 
+If you are taking this course for four units, all the following apply. If you are taking the course for fewer than four units, please see the section below detailing what is expected for what number of units.
+
 - 10% discussion and participation
 - 50% assignments (x4, plus twice-weekly listening responses)
 - 40% final
@@ -82,6 +84,9 @@ The final project will consist of one of two things: a short research paper (8 p
 
 For those that choose an etude, you will be showing it in the final class of the session although the completed project (etude + short paper) is due on Saturday. For those that choose a research paper, you will have a short (≈15min) presentation on your topic. Prepare accordingly.
 
+### Listening Responses
+There will be required listening after each session which you must respond to on a discussion board on Canvas. I have not figured out the format of this yet (if you're reading this before class has begun!) but it will be straightforward.
+
 ### Late or Missing Assignments
 Given the extremely short summer session, late assignments will not be accepted without adequate forewarning. Plan accordingly.
 
@@ -91,11 +96,29 @@ Students are graded on an absolute scale and are expected to complete all assign
 ### Attendance and Participation
 Attending class is critical to have a firm grasp of the material. You will be graded on your participation in in-class discussions which mandates your appearance in class.
 
+### By Unit Breakdown
+If you are taking the course for less than four units, please see the requirements below.
+
+|Units|Requirements |
+|....|.....|
+|One |Reading and listening responses |
+|Two | Reading, listening responses, a short final project (4 page paper or 1 minute etude) |
+|Three| Reading, listening responses, and a full final project OR all the assignments|
+|Four| All the things |
+
 ## Classes
 
 ### Week 1
 #### Tuesday
 - Introduction to the course including the syllabus, expectations, and general housekeeping.
+- How we hear frequency
+  - We do no hear linearly but logarithmically.
+  - If we have a tone of 200Hz, the next octave is 400Hz, the octave after is 800Hz, etc. This means that a increase of, say, 50Hz, is a different "distance" depending on where we start.
+    - 100Hz + 50Hz = 150Hz (i.e. a tritone). 1000Hz + 50Hz = 1050Hz (i.e. something a little less than a halfstep).
+  - It is for this reason we often use ratios to describe musical intervals and pitches.
+- Basic units of measurement
+  - Octave, fifth, halfstep, cents.
+  - Cents will be gone into detail later but just accept on my word what it is for now!
 - The harmonic series
   - The fundamental building block of traditional musical harmony and the phenomenon from whence scales are traditionally constructed.
   - [Wiki](https://en.wikipedia.org/wiki/Harmonic_series_(music))
