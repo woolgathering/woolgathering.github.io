@@ -13,7 +13,7 @@ _Schedule_<br/>
 Lecture: Tuesday & Thursdays, 2-330p
 
 .....................................................................<br/>
-__Note:__ Although we are slated for three-hour sessions twice weekly, I do not expect any of us (myself included) to remain sentient enough to overcome any diminishing returns after about 90 minutes of "Zoom time". Therefore, unless there are a majority of objections, we will have approximately 90-minute classes with listening and response assignments for every day we would meet. We can discuss this further on the first day of class.<br/>
+__Note:__ Although we are slated for three-hour sessions twice weekly, I do not expect any of us (myself included) to remain sentient enough to overcome any diminishing returns after about 90-100 minutes of "Zoom time". Therefore, unless there are a majority of objections, we will have approximately 90-minute classes with listening and response assignments for every day we would meet. We can discuss this further on the first day of class.<br/>
 .....................................................................
 
 While we in the West have become accustomed to 12-tone equal temperament, the issue of musical tuning has a complex history with many avenues explored, settled upon and abandoned. This course will present an overview of various tuning and temperament systems that have been and are used in Western music. Included are equal temperament, just intonation, meantone temperament, well temperament, and exotic flavors of scales, some purely theoretical. There will be a significant listening portion to the course, focused primarily on musical examples. A list is given below.
@@ -100,7 +100,6 @@ Attending class is critical to have a firm grasp of the material. You will be gr
 If you are taking the course for less than four units, please see the requirements below.
 
 |Units|Requirements |
-|....|.....|
 |One |Reading and listening responses |
 |Two | Reading, listening responses, a short final project (4 page paper or 1 minute etude) |
 |Three| Reading, listening responses, and a full final project OR all the assignments|
