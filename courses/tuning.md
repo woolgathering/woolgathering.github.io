@@ -112,7 +112,7 @@ If you are taking the course for less than four units, please see the requiremen
 ## Classes
 
 ### Week 1
-#### Tuesday
+#### [Tuesday](https://drive.google.com/drive/folders/1A0bS2g-Yw0IddxytXEZCTCvwSg1iwEZx?usp=sharing)
 - Introduction to the course including the syllabus, expectations, and general housekeeping.
 - How we hear frequency
   - We do no hear linearly but logarithmically.
@@ -130,3 +130,4 @@ If you are taking the course for less than four units, please see the requiremen
   - Things don't actually work out between the ear and mathematics.
   - The comma: what is it and why does it matter?
 - The Pythagorean comma
+- __Reading__: Chapter 2 of Barbour ([here](https://github.com/woolgathering/mus80_tuning/raw/master/documents/barbour_tuningAndTemperament/ch2_greekTunings.pdf))
