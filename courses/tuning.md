@@ -12,9 +12,9 @@ Office hours: Tuesday after class (4-5p -ish) or by appointment
 _Schedule_<br/>
 Lecture: Tuesday & Thursdays, 2-330p
 
-[_Google Drive_](https://drive.google.com/drive/folders/10Pwes80mI0sAbgjfNVZPSEu10jtGcAF8?usp=sharing)
-[_Github Repo_](https://github.com/woolgathering/mus80_tuning/tree/master/classes/class1)
-[_Canvas_](https://canvas.ucsd.edu/courses/16170)
+[_Google Drive_](https://drive.google.com/drive/folders/10Pwes80mI0sAbgjfNVZPSEu10jtGcAF8?usp=sharing) <br/>
+[_Github Repo_](https://github.com/woolgathering/mus80_tuning/tree/master/classes/class1) <br/>
+[_Canvas_](https://canvas.ucsd.edu/courses/16170) 
 
 .....................................................................<br/>
 __Note:__ Although we are slated for three-hour sessions twice weekly, I do not expect any of us (myself included) to remain sentient enough to overcome any diminishing returns after about 90-100 minutes of "Zoom time". Therefore, unless there are a majority of objections, we will have approximately 90-minute classes with listening and response assignments for every day we would meet. We can discuss this further on the first day of class.<br/>
