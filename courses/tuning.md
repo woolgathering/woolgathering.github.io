@@ -78,7 +78,7 @@ Weekly assignments will consist of scale construction or creation exercises, wri
 
 __IF YOU'RE READING THIS BEFORE JUNE 29, ASSIGNMENTS MAY (PROBABLY WILL, MAYBE, MIGHT, NOT SURE) CHANGE.__
 
-- __Assignment 1__: In exactly one single-spaced page, describe the problem of tuning and Pythagoras’ attempt to solve it. What is the primary interval in Pythagorean tuning? How did he deal with the comma?
+- __Assignment 1__: Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using.
 - __Assignment 2__: Using an extant justly tuned scale or one of your own creation, write a short etude that exploits idiosyncratic properties of the scale. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
 - __Assignment 3__: Using a variation of meantone, well-temperament, or equal temperament (not 12TeT), create a short polyphonic etude. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
 - __Assignment 4__: Write a short proposal for your final project including the format and topic. Due by the end of week 4.
@@ -131,3 +131,23 @@ If you are taking the course for less than four units, please see the requiremen
   - The comma: what is it and why does it matter?
 - The Pythagorean comma
 - __Reading__: Chapter 2 of Barbour ([here](https://github.com/woolgathering/mus80_tuning/raw/master/documents/barbour_tuningAndTemperament/ch2_greekTunings.pdf))
+
+#### Thursday
+- Briefly go over the reading
+  - Terminology: diesis, superparticular
+- Ascending and descending using ratios
+- Greek Tunings
+  - Pythagoras vs. Aristoxenus
+  - Making a tetrachord
+- Analysis: Olympos' Pentatonic and Archytas' Enharmonic
+- The three Greek genera (tetrachords)
+- Addendum: Ling Lun's 3-limit tuning
+- _Remember there are listening discussion due before the start of the next class each class!!_
+
+__Listening:__<br/>
+[Harry Partch: Study on Olympos' Pentatonic](https://www.youtube.com/watch?v=BTz4hSQ61RM&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)
+[Harry Partch: Study on Archytas' Enharmonic](https://www.youtube.com/watch?v=UFGDEOfhMXE&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)
+[Michael Levy's Etude on Olympos' Pentatonic](https://michaellevy.bandcamp.com/track/etude-in-the-olympos-pentatonic-scale) (music is so-so and his understanding of tuning is questionable...)
+[Rediscovering Ancient Greek Music: Sounds from the Past](https://www.youtube.com/watch?v=4vVN748-GJ0)
+
+__Homework One:__ Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using.
