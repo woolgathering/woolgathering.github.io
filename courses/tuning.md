@@ -145,9 +145,9 @@ If you are taking the course for less than four units, please see the requiremen
 - _Remember there are listening discussion due before the start of the next class each class!!_
 
 __Listening:__<br/>
-[Harry Partch: Study on Olympos' Pentatonic](https://www.youtube.com/watch?v=BTz4hSQ61RM&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)
-[Harry Partch: Study on Archytas' Enharmonic](https://www.youtube.com/watch?v=UFGDEOfhMXE&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)
-[Michael Levy's Etude on Olympos' Pentatonic](https://michaellevy.bandcamp.com/track/etude-in-the-olympos-pentatonic-scale) (music is so-so and his understanding of tuning is questionable...)
-[Rediscovering Ancient Greek Music: Sounds from the Past](https://www.youtube.com/watch?v=4vVN748-GJ0)
+[Harry Partch: Study on Olympos' Pentatonic](https://www.youtube.com/watch?v=BTz4hSQ61RM&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)<br/>
+[Harry Partch: Study on Archytas' Enharmonic](https://www.youtube.com/watch?v=UFGDEOfhMXE&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)<br/>
+[Michael Levy's Etude on Olympos' Pentatonic](https://michaellevy.bandcamp.com/track/etude-in-the-olympos-pentatonic-scale) (music is so-so and his understanding of tuning is questionable...)<br/>
+[Rediscovering Ancient Greek Music: Sounds from the Past](https://www.youtube.com/watch?v=4vVN748-GJ0)<br/>
 
 __Homework One:__ Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using.
