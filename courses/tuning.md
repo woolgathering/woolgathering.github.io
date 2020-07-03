@@ -89,7 +89,12 @@ The final project will consist of one of two things: a short research paper (8 p
 For those that choose an etude, you will be showing it in the final class of the session although the completed project (etude + short paper) is due on Saturday. For those that choose a research paper, you will have a short (≈15min) presentation on your topic. Prepare accordingly.
 
 ### Listening Responses
-There will be required listening after each session which you must respond to on a discussion board on Canvas. I have not figured out the format of this yet (if you're reading this before class has begun!) but it will be straightforward.
+These will be  required after almost every class on Canvas. You have been divided randomly into groups to try to facilitate some sort of social interaction given the circumstances. __Please listen to all the pieces.__ What I expect is the following:
+
+1. Respond to one of the works (or videos). The response should be approximately 50 words (at least) and say something meaningful about what you thought about the work. I'm not expecting you to analyze the piece (you're very welcome to, however) or have an [afflatus](https://en.wikipedia.org/wiki/Afflatus) but say something more than, "I liked (or didn't like) it," (though you don't have to like it). Try to compare it to the other music you've heard, even if it's not from this class. This will get easier as we get to listen to more and more music.
+2. Respond to the response of one of the peers in your group. Best way to go about that is to contrast what you thought of some piece with what they thought. Hence, it's helpful to be more descriptive than write a single sentence so everyone has something to work with! If no one else has posted, you won't be held accountable for not responding to anyone.
+
+__All responses are due within three days of assignment at midnight (i.e. Tuesdays are due Friday, Thursdays are due Sunday).__ If you find another work in the vein we're listening to and want to recommend it, please do!
 
 ### Late or Missing Assignments
 Given the extremely short summer session, late assignments will not be accepted without adequate forewarning. Plan accordingly.
@@ -132,7 +137,7 @@ If you are taking the course for less than four units, please see the requiremen
 - The Pythagorean comma
 - __Reading__: Chapter 2 of Barbour ([here](https://github.com/woolgathering/mus80_tuning/raw/master/documents/barbour_tuningAndTemperament/ch2_greekTunings.pdf))
 
-#### Thursday
+#### [Thursday](https://drive.google.com/drive/folders/1F5PFYzvBUBPh9EMsb1BtRDgYQyrF7Ram?usp=sharing)
 - Briefly go over the reading
   - Terminology: diesis, superparticular
 - Ascending and descending using ratios
@@ -144,10 +149,10 @@ If you are taking the course for less than four units, please see the requiremen
 - Addendum: Ling Lun's 3-limit tuning
 - _Remember there are listening discussion due before the start of the next class each class!!_
 
-__Listening:__<br/>
+[__Listening:__](#july2_listening)<br/>
 [Harry Partch: Study on Olympos' Pentatonic](https://www.youtube.com/watch?v=BTz4hSQ61RM&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)<br/>
 [Harry Partch: Study on Archytas' Enharmonic](https://www.youtube.com/watch?v=UFGDEOfhMXE&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)<br/>
 [Michael Levy's Etude on Olympos' Pentatonic](https://michaellevy.bandcamp.com/track/etude-in-the-olympos-pentatonic-scale) (music is so-so and his understanding of tuning is questionable...)<br/>
 [Rediscovering Ancient Greek Music: Sounds from the Past](https://www.youtube.com/watch?v=4vVN748-GJ0)<br/>
 
-__Homework One:__ Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using.
+__Homework One:__ Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using. __Due before class on Tuesday, July 7.__
