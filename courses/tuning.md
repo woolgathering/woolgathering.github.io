@@ -147,7 +147,7 @@ If you are taking the course for less than four units, please see the requiremen
 - Analysis: Olympos' Pentatonic and Archytas' Enharmonic
 - The three Greek genera (tetrachords)
 - Addendum: Ling Lun's 3-limit tuning
-- _Remember there are listening discussion due before the start of the next class each class!!_
+- _Remember there are listening discussion due within three days of each class!!_
 
 [__Listening:__](#july2_listening)<br/>
 [Harry Partch: Study on Olympos' Pentatonic](https://www.youtube.com/watch?v=BTz4hSQ61RM&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)<br/>
