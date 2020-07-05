@@ -13,5 +13,5 @@ Sundstrom’s musical work has been performed by ensembles including Inverted Sp
 
 As a researcher, he has helped develop brain-computer musical interfaces for use in performance settings. His work on [EEG-driven musical interfaces](https://www.frontiersin.org/articles/10.3389/fnhum.2017.00213/full) has been published in _Frontiers in Human Neuroscience_ and presented at the Society for Neuroscience’s annual meeting. For what it’s worth, he studied music and philosophy at the University of California, San Diego and music at the University of Washington. He is currently a PhD candidate in computer music at the University of California, San Diego and holds a studio at [Space4Art](http://www.sdspace4art.org/). Outside of his creative pursuits, Jacob enjoys economics/finance, going to bullfights on acid, and Type II fun.
 
-[Short CV](./assets/sundstromResume_singlePage.pdf)
-[Long CV](./assets/sundstromResume.pdf)
+[Short CV](about/sundstromResume_singlePage.pdf)
+[Long CV](about/sundstromResume.pdf)
