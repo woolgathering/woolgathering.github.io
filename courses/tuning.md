@@ -74,13 +74,13 @@ If you are taking this course for four units, all the following apply. If you ar
 - 40% final
 
 ### Assignments
-Weekly assignments will consist of scale construction or creation exercises, written discussions, and/or etudes written in the tuning systems we study.
+Weekly assignments will consist of scale construction or creation exercises, written discussions, and/or etudes written in the tuning systems we study. I write up a cheatsheet for working with ratios, available [here](tuning/ratioCheatsheet.pdf).
 
 __IF YOU'RE READING THIS BEFORE JUNE 29, ASSIGNMENTS MAY (PROBABLY WILL, MAYBE, MIGHT, NOT SURE) CHANGE.__
 
 - __Assignment 1__: Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using.
-- __Assignment 2__: Using an extant justly tuned scale or one of your own creation, write a short etude that exploits idiosyncratic properties of the scale. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
-- __Assignment 3__: Using a variation of meantone, well-temperament, or equal temperament (not 12TeT), create a short polyphonic etude. Must be accompanied by a few paragraphs describing the tuning system used, construction method, and/or diagrams. Be prepared to show in class.
+- __Assignment 2__: TBD
+- __Assignment 3__: TBD
 - __Assignment 4__: Write a short proposal for your final project including the format and topic. Due by the end of week 4.
 
 __Recording your Work:__ The easiest way to record an etude that you want to play will be to use a screen capture program such as [OBS Studio](https://obsproject.com/), which works on Windows, Mac, and Linux. OBS is designed for streaming but it's very easy to record the output from any program instead of streaming. [This guy](https://www.youtube.com/watch?v=OpbxNPVJwbE) does a good job of explaining how to do it. Here is [another tutorial](https://www.youtube.com/watch?v=ZL0rqcNxsO0) if you prefer British accents.
@@ -118,7 +118,7 @@ If you are taking the course for less than four units, please see the requiremen
 
 ## Classes
 
-### Week 1
+### Week 1: Introduction and Ancient Greek Systems
 #### [Tuesday](https://drive.google.com/drive/folders/1A0bS2g-Yw0IddxytXEZCTCvwSg1iwEZx?usp=sharing)
 - Introduction to the course including the syllabus, expectations, and general housekeeping.
 - How we hear frequency
@@ -151,10 +151,44 @@ If you are taking the course for less than four units, please see the requiremen
 - Addendum: Ling Lun's 3-limit tuning
 - _Remember there are listening discussion due within three days of each class!!_
 
-[__Listening:__](#july2_listening)<br/>
+__Listening:__
 [Harry Partch: Study on Olympos' Pentatonic](https://www.youtube.com/watch?v=BTz4hSQ61RM&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)<br/>
 [Harry Partch: Study on Archytas' Enharmonic](https://www.youtube.com/watch?v=UFGDEOfhMXE&list=PLG_72OEda6teRvRv9DQiV6JUqLjesUwjZ)<br/>
 [Michael Levy's Etude on Olympos' Pentatonic](https://michaellevy.bandcamp.com/track/etude-in-the-olympos-pentatonic-scale) (music is so-so and his understanding of tuning is questionable...)<br/>
-[Rediscovering Ancient Greek Music: Sounds from the Past](https://www.youtube.com/watch?v=4vVN748-GJ0)<br/>
+[Rediscovering Ancient Greek Music: Sounds from the Past](https://www.youtube.com/watch?v=4vVN748-GJ0)
 
 __Homework One:__ Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using. __Due before class on Tuesday, July 7.__
+
+### Week 2
+#### Tuesday: Just Intonation
+- Introduction to just intonation
+- Tonality diamonds
+  - A Partch invention but extremely useful for thinking about harmonic relationships
+  - How to build one
+  - Extension of a tonality diamond: tone lattice
+- Analysis: Ben Johnston's _Crossings: String Quartet No. 4, "Amazing Grace"_
+  - Pythagorean to 5-limit to ??
+  - A progressively more complex tuning as the piece goes on
+- Analysis: Partch: Delusion of the Fury (excerpt)
+- Analysis: La Monte Young's _Well-Tuned Piano_ (1985) (excerpt)
+  - Application of the 7-limit without the 5?!
+- __Reading:__
+  - Partch, _Genesis of a Music_: Ch. 4, "The Language of Ratios" (pg 76-85); Ch. 7, "Analysis of the 5-Limit" (pg 109-118)
+  - [Kyle Gann, "La Monte Young's _Well-Tuned Piano_"](https://www.kylegann.com/wtp.html)
+    - If you're really psyched on the above, you can read the full article [here](https://www.kylegann.com/PNM-WellTunedPiano.pdf).
+
+<!-- __Listening:__<br/>
+[Harry Partch: _Daphne of the Dunes_ (1968)](http://)<br/>
+[Lou Harrison: _String Quartet_, Mvt 1](http://)
+[Lou Harrison: _String Quartet_, Mvt 2](http://)
+[Ben Johnston: String Quartet 10](https://www.youtube.com/watch?v=1uZUQqOLyPQ)
+[Manchester Collective: _Carlo Gesualdo: Moro, Lasso_ (15th Century) (Arr. for String Quartet)](https://www.youtube.com/watch?v=8ZQAcu6vJ5o) -->
+
+#### Thursday
+- Partch's application of the 11-limit
+- Implications of the 11-limit
+  - Depends on who you ask...
+- What about a 13-limit? 17-limit? 19-limit??
+- Analysis: Partch: _Castor and Pollux_
+- Guest Presentation: Charles Corey on Partch's instruments, thought, and character
+- __Reading:__ Partch, _Genesis of a Music_, Ch. 8, "Application of the 11-Limit" (pg 119-137)
