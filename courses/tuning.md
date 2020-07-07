@@ -181,7 +181,7 @@ __Listening:__<br/>
 [Harry Partch: _Daphne of the Dunes_ (1968)](https://www.youtube.com/watch?v=Zq4mctloPOc)<br/>
 [Lou Harrison: _Gamelan Music_](https://www.youtube.com/watch?v=f7IwH01YFAI)<br/>
 [Ben Johnston: String Quartet 10](https://www.youtube.com/watch?v=1uZUQqOLyPQ)<br/>
-[Eight Llamas from Drepung: ](https://www.youtube.com/watch?v=9MR6RDGuKqw)<br/>
+[Eight Llamas from Drepung: _Invoking The Spirit Of Kindness Through Sound_](https://www.youtube.com/watch?v=9MR6RDGuKqw)<br/>
 [Manchester Collective: _Carlo Gesualdo: Moro, Lasso_ (15th Century) (Arr. for String Quartet)_](https://www.youtube.com/watch?v=8ZQAcu6vJ5o)
 
 #### Thursday
