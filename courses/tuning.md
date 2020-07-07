@@ -159,8 +159,8 @@ __Listening:__
 
 __Homework One:__ Create an octave scale using one of the three Greek genera. In a couple paragraphs, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). You can use any mode of the tuning you'd like, just be sure to note which mode you're using. __Due before class on Tuesday, July 7.__
 
-### Week 2
-#### Tuesday: Just Intonation
+### Week 2: Just Intonation
+#### [Tuesday](https://drive.google.com/drive/folders/1MWtKw4wx-bEZ2_WP7xj75TlQsQ45mAr1?usp=sharing)
 - Introduction to just intonation
 - Tonality diamonds
   - A Partch invention but extremely useful for thinking about harmonic relationships
