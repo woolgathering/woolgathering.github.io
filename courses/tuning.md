@@ -169,7 +169,7 @@ __Homework One:__ Create an octave scale using one of the three Greek genera. In
 - Analysis: Ben Johnston's _Crossings: String Quartet No. 4, "Amazing Grace"_
   - Pythagorean to 5-limit to ??
   - A progressively more complex tuning as the piece goes on
-- Analysis: Partch: Delusion of the Fury (excerpt)
+- Analysis: Pauline Oliveros: _Horse Sings from Cloud_ (1982) (excerpt)
 - Analysis: La Monte Young's _Well-Tuned Piano_ (1985) (excerpt)
   - Application of the 7-limit without the 5?!
 - __Reading:__
@@ -177,12 +177,12 @@ __Homework One:__ Create an octave scale using one of the three Greek genera. In
   - [Kyle Gann, "La Monte Young's _Well-Tuned Piano_"](https://www.kylegann.com/wtp.html)
     - If you're really psyched on the above, you can read the full article [here](https://www.kylegann.com/PNM-WellTunedPiano.pdf).
 
-<!-- __Listening:__<br/>
-[Harry Partch: _Daphne of the Dunes_ (1968)](http://)<br/>
-[Lou Harrison: _String Quartet_, Mvt 1](http://)
-[Lou Harrison: _String Quartet_, Mvt 2](http://)
-[Ben Johnston: String Quartet 10](https://www.youtube.com/watch?v=1uZUQqOLyPQ)
-[Manchester Collective: _Carlo Gesualdo: Moro, Lasso_ (15th Century) (Arr. for String Quartet)](https://www.youtube.com/watch?v=8ZQAcu6vJ5o) -->
+__Listening:__<br/>
+[Harry Partch: _Daphne of the Dunes_ (1968)](https://www.youtube.com/watch?v=Zq4mctloPOc)<br/>
+[Lou Harrison: _Gamelan Music_](https://www.youtube.com/watch?v=f7IwH01YFAI)<br/>
+[Ben Johnston: String Quartet 10](https://www.youtube.com/watch?v=1uZUQqOLyPQ)<br/>
+[Eight Llamas from Drepung: ](https://www.youtube.com/watch?v=9MR6RDGuKqw)<br/>
+[Manchester Collective: _Carlo Gesualdo: Moro, Lasso_ (15th Century) (Arr. for String Quartet)_](https://www.youtube.com/watch?v=8ZQAcu6vJ5o)
 
 #### Thursday
 - Partch's application of the 11-limit
@@ -190,5 +190,5 @@ __Homework One:__ Create an octave scale using one of the three Greek genera. In
   - Depends on who you ask...
 - What about a 13-limit? 17-limit? 19-limit??
 - Analysis: Partch: _Castor and Pollux_
-- Guest Presentation: Charles Corey on Partch's instruments, thought, and character
+- Guest Presentation: [Charles Corey](https://www.charlescorey.com/) on Partch's instruments, thought, and character
 - __Reading:__ Partch, _Genesis of a Music_, Ch. 8, "Application of the 11-Limit" (pg 119-137)
