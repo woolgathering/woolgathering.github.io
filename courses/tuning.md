@@ -177,12 +177,12 @@ __Homework One:__ Create an octave scale using one of the three Greek genera. In
   - [Kyle Gann, "La Monte Young's _Well-Tuned Piano_"](https://www.kylegann.com/wtp.html)
     - If you're really psyched on the above, you can read the full article [here](https://www.kylegann.com/PNM-WellTunedPiano.pdf).
 
-__Listening:__<br/>
+__Listening:__ (Some of these are very long; you needn't listen to the entire thing)<br/>
 [Harry Partch: _Daphne of the Dunes_ (1968)](https://www.youtube.com/watch?v=Zq4mctloPOc)<br/>
 [Lou Harrison: _Gamelan Music_](https://www.youtube.com/watch?v=f7IwH01YFAI)<br/>
 [Ben Johnston: String Quartet 10](https://www.youtube.com/watch?v=1uZUQqOLyPQ)<br/>
-[Eight Llamas from Drepung: _Invoking The Spirit Of Kindness Through Sound_](https://www.youtube.com/watch?v=9MR6RDGuKqw)<br/>
-[Manchester Collective: _Carlo Gesualdo: Moro, Lasso_ (15th Century) (Arr. for String Quartet)_](https://www.youtube.com/watch?v=8ZQAcu6vJ5o)
+[Eight Llamas from Drepung: _Invoking The Spirit Of Kindness Through Sound_](https://www.youtube.com/watch?v=9MR6RDGuKqw) (Not strictly just intonation but pretty cool)<br/>
+[Manchester Collective: _Carlo Gesualdo: Moro, Lasso_ (15th Century) (Arr. for String Quartet)](https://www.youtube.com/watch?v=8ZQAcu6vJ5o)
 
 #### Thursday
 - Partch's application of the 11-limit
