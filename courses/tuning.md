@@ -37,6 +37,7 @@ There are no required textbooks for this course although there is a significant 
 - [Jan Haluska, The Mathematical Theory of Tone Systems](https://www.amazon.com/Mathematical-Systems-Chapman-Applied-Mathematics/dp/0824747143)
 - James Frederic Mountford, The Musical Scales of Plato's Republic
 - The Cambridge History of Western Music Theory, ed. Thomas Christensen
+- [The Xenharmonic Wiki](https://en.xen.wiki/w/Main_Page). A great resource.
 
 ### Listening
 - Pythagorean Tuning
