@@ -190,10 +190,14 @@ Optional: <br/>
 
 
 #### Thursday
-- Partch's application of the 11-limit
-- Implications of the 11-limit
-  - Depends on who you ask...
-- What about a 13-limit? 17-limit? 19-limit??
-- Analysis: Partch: _Castor and Pollux_
+- Otonality and Utonality
+- The Incipient Tonality Diamond
+  - [The Diamond Marbimba](https://upload.wikimedia.org/wikipedia/commons/2/26/Diamond_Marimba.jpg). [Listen](https://www.youtube.com/watch?v=J_trV1AWU0Y)
+  - [The Quadrangularis Reversum](https://upload.wikimedia.org/wikipedia/commons/8/81/Quadrangularis_Reversum.jpg)
+- __Listening:__ [Syzygys: _Fauna Grotesque_](https://www.youtube.com/watch?v=cA9AXvD09CM)
 - Guest Presentation: [Charles Corey](https://www.charlescorey.com/) on Partch's instruments, thought, and character
-- __Reading:__ Partch, _Genesis of a Music_, Ch. 8, "Application of the 11-Limit" (pg 119-137)
+- __Reading:__ Partch, _Genesis of a Music_, Ch. 8, "Application of the 11-Limit" (pg 119-137). OPTIONAL: Ch. 15, "History of Intonation" (pg 361-397)
+
+__Listening:__<br/>
+[Harry Partch: _Delusion of Fury - Arrest, Trial and Judgment_ (1968)](https://www.youtube.com/watch?v=adx6N6qGEjE)<br/>
+If you are interested in Partch's life/philosophy, it's worth watching [The Dreamer that Remains (1972)](https://www.youtube.com/watch?v=nt2cJEQk9kE&t=420s) and his [1968 Interview](https://www.youtube.com/watch?v=yYMkCtCfo6s) (conducted on the old Quad at UCSD!)
