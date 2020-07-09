@@ -189,7 +189,7 @@ Optional: <br/>
 [Eight Llamas from Drepung: _Purifying the Environment_](https://www.youtube.com/watch?v=b1k41N7fTy0) (my personal favorite)
 
 
-#### Thursday
+#### [Thursday](https://drive.google.com/drive/folders/1NAFfvH5quXXGzPp32MjOInGOWHQFI1NU?usp=sharing)
 - Otonality and Utonality
 - The Incipient Tonality Diamond
   - [The Diamond Marbimba](https://upload.wikimedia.org/wikipedia/commons/2/26/Diamond_Marimba.jpg). [Listen](https://www.youtube.com/watch?v=J_trV1AWU0Y)
