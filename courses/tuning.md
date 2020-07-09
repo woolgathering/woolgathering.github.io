@@ -202,5 +202,5 @@ __Listening:__<br/>
 [Harry Partch: _Delusion of Fury - Arrest, Trial and Judgment_ (1968)](https://www.youtube.com/watch?v=adx6N6qGEjE)<br/>
 If you are interested in Partch's life/philosophy, it's worth watching [The Dreamer that Remains (1972)](https://www.youtube.com/watch?v=nt2cJEQk9kE&t=420s) and his [1968 Interview](https://www.youtube.com/watch?v=yYMkCtCfo6s) (conducted on the old Quad at UCSD!)
 
-Optional: </br>
+Optional: <br/>
 [The Shaggs: My Pal Foot-Foot](https://www.youtube.com/watch?v=XR9d4ESlpHY) According to [Frank Zappa](https://en.wikipedia.org/wiki/Frank_Zappa), The Shaggs are "better than the Beatles".
