@@ -164,7 +164,7 @@ __Homework One:__ Create an octave scale using one of the three Greek genera. In
 #### [Tuesday](https://drive.google.com/drive/folders/1MWtKw4wx-bEZ2_WP7xj75TlQsQ45mAr1?usp=sharing)
 - Introduction to just intonation
 - Tonality diamonds
-  - A Partch invention but extremely useful for thinking about harmonic relationships
+  - ~~A Partch invention but~~ extremely useful for thinking about harmonic relationships
   - How to build one
   - Extension of a tonality diamond: tone lattice
 - Analysis: Ben Johnston's _Crossings: String Quartet No. 4, "Amazing Grace"_
@@ -198,9 +198,11 @@ Optional: <br/>
 - Guest Presentation: [Charles Corey](https://www.charlescorey.com/) on Partch's instruments, thought, and character
 - __Reading:__ Partch, _Genesis of a Music_, Ch. 8, "Application of the 11-Limit" (pg 119-137). OPTIONAL: Ch. 15, "History of Intonation" (pg 361-397)
 
-__Listening:__<br/>
+__Listening:__(Short listening for this day since we had a longer than usual class)<br/>
 [Harry Partch: _Delusion of Fury - Arrest, Trial and Judgment_ (1968)](https://www.youtube.com/watch?v=adx6N6qGEjE)<br/>
 If you are interested in Partch's life/philosophy, it's worth watching [The Dreamer that Remains (1972)](https://www.youtube.com/watch?v=nt2cJEQk9kE&t=420s) and his [1968 Interview](https://www.youtube.com/watch?v=yYMkCtCfo6s) (conducted on the old Quad at UCSD!)
 
 Optional: <br/>
-[The Shaggs: My Pal Foot-Foot](https://www.youtube.com/watch?v=XR9d4ESlpHY) According to [Frank Zappa](https://en.wikipedia.org/wiki/Frank_Zappa), The Shaggs are "better than the Beatles".
+[The Shaggs: My Pal Foot-Foot](https://www.youtube.com/watch?v=XR9d4ESlpHY) According to [Frank Zappa](https://en.wikipedia.org/wiki/Frank_Zappa), The Shaggs are "better than the Beatles". (Warning to Joel :) )
+
+__Homework Two:__ Create an just intonation with the 5-, 7-, or 11-limit, use at least two primes. (Remember you don't have to use all primes; i.e. 3- and 7-limit, 5- and 11-limit, etc). Your scale can be any size but use the harmonies meaningfully. In a paragraph or so, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). EXTRA CREDIT (+5%): Tastefully include some 13-limit pitches. __Due before class on Tuesday, July 14.__
