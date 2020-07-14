@@ -208,7 +208,7 @@ Optional: <br/>
 __Homework Two:__ Create an just intonation with the 5-, 7-, or 11-limit, use at least two primes. (Remember you don't have to use all primes; i.e. 3- and 7-limit, 5- and 11-limit, etc). Your scale can be any size but use the harmonies meaningfully. In a paragraph or so, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). EXTRA CREDIT (+5%): Tastefully include some 13-limit pitches. __Due before class on Tuesday, July 14.__
 
 ### Week 3: Temperaments
-#### Tuesday
+#### [Tuesday](https://drive.google.com/drive/folders/1K2u_PDmxAJEUzUsBpKXj2MHF2aYSxLxj)
 - Where just intonation falls short
 - Temperament
   - What is temperament?
@@ -217,3 +217,11 @@ __Homework Two:__ Create an just intonation with the 5-, 7-, or 11-limit, use at
   - How it it different than a just scale?
 - __Listening__: Mozart's Fantasie KV397 in Three Different Temperaments
 - __Listening__: Yale's Divinity School Meantone Organ
+
+__Listening:__<br/>
+[Beethoven Tempest Sonata No 17, Op 31 No 2 on an 1802 pianoforte](https://www.youtube.com/watch?v=oV0bkcSr_Kg)<br/>
+[Meantone Blues (on a guitar!)](https://www.youtube.com/watch?v=E0pUt_Wvht0)<br/>
+[Meantone versus Equal Temperament (unknown work)](https://www.youtube.com/watch?v=k8Lm1dXN3-I)
+
+Optional:<br/>
+[Praeludium et fuga in G, BWV 541 - J S Bach, in meantone temperament](https://www.youtube.com/watch?v=2osCf4AQ_0k)
