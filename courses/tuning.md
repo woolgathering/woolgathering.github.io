@@ -206,3 +206,14 @@ Optional: <br/>
 [The Shaggs: My Pal Foot-Foot](https://www.youtube.com/watch?v=XR9d4ESlpHY) According to [Frank Zappa](https://en.wikipedia.org/wiki/Frank_Zappa), The Shaggs are "better than the Beatles". (Warning to Joel :) )
 
 __Homework Two:__ Create an just intonation with the 5-, 7-, or 11-limit, use at least two primes. (Remember you don't have to use all primes; i.e. 3- and 7-limit, 5- and 11-limit, etc). Your scale can be any size but use the harmonies meaningfully. In a paragraph or so, describe what you did (i.e. analyze your tuning) and create a short etude (musical style is your choice) using your tuning. The etude can be recorded or written (quasi-notation). EXTRA CREDIT (+5%): Tastefully include some 13-limit pitches. __Due before class on Tuesday, July 14.__
+
+### Week 3: Temperaments
+#### Tuesday
+- Where just intonation falls short
+- Temperament
+  - What is temperament?
+- 1/4 comma meantone temperament
+  - Building a 12-note scale
+  - How it it different than a just scale?
+- __Listening__: Mozart's Fantasie KV397 in Three Different Temperaments
+- __Listening__: Yale's Divinity School Meantone Organ
