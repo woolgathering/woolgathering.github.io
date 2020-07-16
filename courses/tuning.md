@@ -226,12 +226,12 @@ __Listening:__<br/>
 Optional:<br/>
 [Praeludium et fuga in G, BWV 541 - J S Bach, in meantone temperament](https://www.youtube.com/watch?v=2osCf4AQ_0k)
 
-#### Thursday
+#### [Thursday](https://drive.google.com/drive/u/0/folders/1Zq5ByVX2WT0B23eW90IuY_Aw0qyna5k_)
 - What is well-temperament? How is it different than meantone?
 - Bach: The Well-Tempered Clavier, Book I (1722)
   - Written in all 24 major and minor keys
-    - __Listening:__ [Víkingur Ólafsson – Bach: Prelude & Fugue in C minor, BWV 847 | WTC Book I](https://www.youtube.com/watch?v=CGVL5j6BEKs)
-    - __Listening:__ [Angela Hewitt – Bach Prelude & Fugue in A minor, BWV 889 | WTC Book II](https://www.youtube.com/watch?v=aPSCHZnjw2k)
+    - __Listening:__ [Víkingur Ólafsson – Bach: Prelude & Fugue in C minor, BWV 847, WTC Book I](https://www.youtube.com/watch?v=CGVL5j6BEKs)
+    - __Listening:__ [Angela Hewitt – Bach Prelude & Fugue in A minor, BWV 889, WTC Book II](https://www.youtube.com/watch?v=aPSCHZnjw2k)
   - What did Bach's temperament sound like for this work?
     - Competing theories (some more dubious than others)
 - Bach according to Werckmeister
