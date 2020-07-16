@@ -225,3 +225,28 @@ __Listening:__<br/>
 
 Optional:<br/>
 [Praeludium et fuga in G, BWV 541 - J S Bach, in meantone temperament](https://www.youtube.com/watch?v=2osCf4AQ_0k)
+
+#### Thursday
+- What is well-temperament? How is it different than meantone?
+- Bach: The Well-Tempered Clavier, Book I (1722)
+  - Written in all 24 major and minor keys
+    - __Listening:__ [Víkingur Ólafsson – Bach: Prelude & Fugue in C minor, BWV 847 | WTC Book I](https://www.youtube.com/watch?v=CGVL5j6BEKs)
+    - __Listening:__ [Angela Hewitt – Bach Prelude & Fugue in A minor, BWV 889 | WTC Book II](https://www.youtube.com/watch?v=aPSCHZnjw2k)
+  - What did Bach's temperament sound like for this work?
+    - Competing theories (some more dubious than others)
+- Bach according to Werckmeister
+  - __Listening:__ The Werckmeister III Temperament
+- Bach according to Lehman
+  - __Listening:__ [Bradley Lehman - Bach: Fugue in F# minor, on harpsichord](https://www.youtube.com/watch?v=OMZODtaf4d4)
+  - __Listening:__ [Fugue in Ab Major (BWV 886) in Five Different Temperaments](https://www.youtube.com/watch?v=AaDgJ_cyeOg)
+- Assignment 3
+
+__Listening:__<br/>
+[Andras Schiff: J.S. Bach: Prelude and Fugue in F minor (WTK, Book II, No.12) , BWV 881](https://www.youtube.com/watch?v=oZQQxIXiqN8) <br/>
+[Charles Tebbs: Bach: demonstration of piano in Lehman's 'Bach' temperament](https://www.youtube.com/watch?v=V0SVvfF52AE)
+
+Optional:<br/>
+[Noname: Telefone (album, 2016)](https://www.youtube.com/watch?v=eSX7LmESZQ4&t=0s) Cool "wobbly" hip-hop<br/>
+[My Bloody Valentine: When You Sleep (1991)](https://www.youtube.com/watch?v=I-Ig71fhUc8) Kevin Shields strummed his guitar while using the "whammy bar" which moves the pitch up and down. Suggest to play this as loud as possible on good speakers.
+
+__Homework Three:__ Given all the scholarly debate surrounding Bach's tuning system, does it actually matter _exactly_ which system of well-temperament he used? In 3-5 paragraphs (approx. 300-500 words), argue a position. Note there are no right or wrong answers but there are bad, lazy, or poorly thought out answers. More words is not necessarily better (Mark Twain: "I didn't have time to write a short letter, so I wrote a long one instead.") __Due before class on Tuesday, July 21.__
