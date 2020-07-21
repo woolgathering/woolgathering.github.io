@@ -250,3 +250,10 @@ Optional:<br/>
 [My Bloody Valentine: When You Sleep (1991)](https://www.youtube.com/watch?v=I-Ig71fhUc8) Kevin Shields strummed his guitar while using the "whammy bar" which moves the pitch up and down. Suggest to play this as loud as possible on good speakers.
 
 __Homework Three:__ Given all the scholarly debate surrounding Bach's tuning system, does it actually matter _exactly_ which system of well-temperament he used? In 3-5 paragraphs (approx. 300-500 words), argue a position. Note there are no right or wrong answers but there are bad, lazy, or poorly thought out answers. More words is not necessarily better (Mark Twain: "I didn't have time to write a short letter, so I wrote a long one instead.") __Due before class on Tuesday, July 21.__
+
+### Week 3: Equal Temperament
+#### [Tuesday](https://drive.google.com/drive/u/0/folders/1Tl0vHf8Pvq_sSvUF5fqbMMVlo38tKsJD)
+- What is equal temperament? (also called "equal divisions of the octave", EDO)
+- Easy math, hard to tune
+- Common types of equal temperament
+  - 12edo, 19edo, 24edo, 31edo
