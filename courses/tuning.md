@@ -257,3 +257,12 @@ __Homework Three:__ Given all the scholarly debate surrounding Bach's tuning sys
 - Easy math, hard to tune
 - Common types of equal temperament
   - 12edo, 19edo, 24edo, 31edo
+
+__Listening:__<br/>
+[KPH Notoprojo (K.R.T. Wasitodiningrat): Ketawang Wedyasmoro, Laras Pelog, Patet Lima](https://www.youtube.com/watch?v=FYXuiuTvm_8)<br/>
+[Zhea Erose: Prayer Room](https://www.youtube.com/watch?v=7RLwlGpyHz0) Actually mixing temperaments to an interesting effect.<br/>
+[Georg Friedrich Haas: Hommage à György Ligeti (1982-4)](https://www.youtube.com/watch?v=OVpOhcnwIbY)
+
+Optional:<br/>
+[Gérard Grisey: Partiels (1975)](https://www.youtube.com/watch?v=1v7onrjN6RE&list=RD1v7onrjN6RE&start_radio=1&t=193)
+[Gérard Grisey: Vortex Temporum (1995)](https://www.youtube.com/watch?v=rXaNFBzgDWI&t=267s)
