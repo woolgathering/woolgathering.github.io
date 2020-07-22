@@ -264,5 +264,5 @@ __Listening:__<br/>
 [Georg Friedrich Haas: Hommage à György Ligeti (1982-4)](https://www.youtube.com/watch?v=OVpOhcnwIbY)
 
 Optional:<br/>
-[Gérard Grisey: Partiels (1975)](https://youtu.be/1v7onrjN6RE)
+[Gérard Grisey: Partiels (1975)](https://youtu.be/1v7onrjN6RE)<br/>
 [Gérard Grisey: Vortex Temporum (1995)](https://youtu.be/rXaNFBzgDWI)
