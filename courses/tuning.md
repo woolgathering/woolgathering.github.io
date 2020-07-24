@@ -273,7 +273,7 @@ Optional:<br/>
 - Bohlen-Pierce Scale
 
 __Listening:__<br/>
-_Diana Deutsch's Musical Illusions_
+_Diana Deutsch's Musical Illusions_<br/>
 [The Mysterious Melody](https://www.youtube.com/watch?v=Scif2MyW__Y&list=RDScif2MyW__Y&index=1)<br/>
 [The Scale Illusion](https://www.youtube.com/watch?v=by-pEVfQxH8&list=RDScif2MyW__Y&index=2)<br/>
 [The Octave Illusion](https://www.youtube.com/watch?v=IMMsK9rjBWo&list=RDScif2MyW__Y&index=3)<br/>
