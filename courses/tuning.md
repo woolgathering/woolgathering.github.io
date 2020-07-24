@@ -266,3 +266,21 @@ __Listening:__<br/>
 Optional:<br/>
 [Gérard Grisey: Partiels (1975)](https://youtu.be/1v7onrjN6RE)<br/>
 [Gérard Grisey: Vortex Temporum (1995)](https://youtu.be/rXaNFBzgDWI)
+
+#### [Thursday]
+- Non-octave scales
+  - The tritave
+- Bohlen-Pierce Scale
+
+__Listening:__<br/>
+_Diana Deutsch's Musical Illusions_
+[The Mysterious Melody](https://www.youtube.com/watch?v=Scif2MyW__Y&list=RDScif2MyW__Y&index=1)<br/>
+[The Scale Illusion](https://www.youtube.com/watch?v=by-pEVfQxH8&list=RDScif2MyW__Y&index=2)<br/>
+[The Octave Illusion](https://www.youtube.com/watch?v=IMMsK9rjBWo&list=RDScif2MyW__Y&index=3)<br/>
+[Phantom Words](https://www.youtube.com/watch?v=kB0I5x_Skzg&list=RDScif2MyW__Y&index=4)
+
+If you're psyched on the above, there's a whole RadioLab on music (with Diana Deutsch) that is awesome:
+<d>
+<iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/292109/&share=1"></iframe>
+</d>
+<br/>[The album they're referring to on BandCamp](https://dianadeutsch.bandcamp.com/album/musical-illusions-and-paradoxes)
