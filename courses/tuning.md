@@ -283,4 +283,4 @@ If you're psyched on the above, there's a whole RadioLab on music (with Diana De
 <d>
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/292109/&share=1"></iframe>
 </d>
-<br/>[The album they're referring to on BandCamp](https://dianadeutsch.bandcamp.com/album/musical-illusions-and-paradoxes)
+<br/>[The album they're referring to on BandCamp](https://dianadeutsch.bandcamp.com/album/musical-illusions-and-paradoxes) and a [paper](http://deutsch.ucsd.edu/pdf/New_Enc_Neurosci_inpress.pdf)
