@@ -12,6 +12,7 @@ Office hours: Tuesday after class (4-5p -ish) or by appointment
 _Schedule_<br/>
 Lecture: Tuesday & Thursdays, 2-330p
 
+[_Other Link_](https://drive.google.com/drive/folders/1Ena5mo17-o1CBq2qU0xq-AmmA9cYMRZx?usp=sharing)<br/>
 [_Google Drive_](https://drive.google.com/drive/folders/10Pwes80mI0sAbgjfNVZPSEu10jtGcAF8?usp=sharing) <br/>
 [_Github Repo_](https://github.com/woolgathering/mus80_tuning) <br/>
 [_Canvas_](https://canvas.ucsd.edu/courses/16170)
