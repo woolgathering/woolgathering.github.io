@@ -26,6 +26,13 @@ Recent experiments have yielded interesting results...
 <br/>
 <br/>
 
+### No students receive an EDUCATION in theory (2020)
+<d1>
+<a href="blackout/">
+  <img src="blackout/nsret/sideA_left.jpg" alt="postcard front" style="width:100%">
+</a>
+</d1>
+
 ### Sampler - 1972 (work in progress)
 <d1>
 <a href="blackout/sampler1972.jpg">
