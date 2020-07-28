@@ -302,6 +302,7 @@ __Homework 4:__ Write a short proposal for your final project including the form
 - Sacrificing the Octave: __Wendy Carlos__
   - Alpha, beta, gamma, delta
   - __Listening:__ [Beauty in the Beast (1986)](https://www.dailymotion.com/video/x2j1gy2)
+  - [A Many-Colored Jungle of Exotic Tunings (1986)](http://www.wendycarlos.com/other/PDF-Files/Kbd86Tunings*.pdf)
   - She also made parts of the soundtrack to Tron (1982, dir. Steven Lisberger) and Clockwork Orange (1972, Stanley Kubrick).
 
 __Optional Listening/Watching:__<br/>
