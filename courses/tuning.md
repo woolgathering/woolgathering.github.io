@@ -268,10 +268,12 @@ Optional:<br/>
 [Gérard Grisey: Partiels (1975)](https://youtu.be/1v7onrjN6RE)<br/>
 [Gérard Grisey: Vortex Temporum (1995)](https://youtu.be/rXaNFBzgDWI)
 
-#### [Thursday]
+#### [Thursday](https://drive.google.com/drive/folders/14HPmXfAdzZY-KvC3OtunXb_S3dbCSrnu?usp=sharing)
 - Non-octave scales
   - The tritave
 - Bohlen-Pierce Scale
+  - __Listening:__ [Kjell Hansen: Bohlen-Pierce Cannon](https://www.youtube.com/watch?v=sd1b9Lh8iFA)
+  - __Listening:__ [Improvisation by Nora-Louise Müller](https://www.youtube.com/watch?v=y8Dimhs_GX8&list=PLSs0ylMf5T408-0YNxijj_adHCSWMIMjC&index=2)
 
 __Listening:__<br/>
 _Diana Deutsch's Musical Illusions_<br/>
@@ -287,3 +289,25 @@ If you're psyched on the above, there's a whole RadioLab on music (with Diana De
 <br/>[The album they're referring to on BandCamp](https://dianadeutsch.bandcamp.com/album/musical-illusions-and-paradoxes) and a [paper](http://deutsch.ucsd.edu/pdf/New_Enc_Neurosci_inpress.pdf)
 
 __Homework 4:__ Write a short proposal for your final project including the format and topic. The final project will consist of one of two things: a short research paper (4-6 pages, 12 point font, double-spaced) on a temperament discussed, including its history, implications, and usage; or a longer etude (~3 minutes) using a temperament of your own creation. The latter must be accompanied by an equally brief discussion of the tuning system and its implications (2-3 pages, 12 point font, double-spaced).  These papers should also include diagrams as needed. __Due Wednesday, July 29 at midnight.__
+
+### Week 5
+#### [Tuesday](https://drive.google.com/drive/folders/1FeeVRlzF5wzAjNaAlaIrr2MIMux-PAd1?usp=sharing)
+- William Sethares
+  - Spectra and scale
+  - __Listening:__ Two versions of _Ten Fingers_ [1](https://sethares.engr.wisc.edu/mp3s/Ten_Fingers.mp3), [2](https://sethares.engr.wisc.edu/mp3s/tenfingersX.mp3)
+- Bohlen
+  - 833 cents scale, A12 scale
+  - __Listening:__ [John Chowning: Stria (1977)](https://www.youtube.com/watch?v=988jPjs1gao&feature=emb_title)
+- Sacrificing the Octave: __Wendy Carlos__
+  - Alpha, beta, gamma, delta
+  - __Listening:__ [Beauty in the Beast (1986)](https://www.dailymotion.com/video/x2j1gy2)
+  - She also made parts of the soundtrack to Tron (1982, dir. Steven Lisberger) and Clockwork Orange (1972, Stanley Kubrick).
+
+__Optional Listening/Watching:__<br/>
+[Wendy Carlos BBC Interview (1989)](https://www.youtube.com/watch?v=Z3cab5IcCy8)<br/>
+Clockwork Orange is bizarre and well worth watching.
+
+#### Thursday
+- Open office hours (2-330pm)
+
+__FINAL DUE SATURDAY, AUGUST 1, 2020 BEFORE MIDNIGHT__
