@@ -28,7 +28,7 @@ Recent experiments have yielded interesting results...
 
 ### No students receive an EDUCATION in theory (2020)
 <d1>
-<a href="blackout/">
+<a href="blackout/nsret">
   <img src="blackout/nsret/sideA_left.jpg" alt="postcard front" style="width:100%">
 </a>
 </d1>
