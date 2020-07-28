@@ -294,6 +294,7 @@ __Homework 4:__ Write a short proposal for your final project including the form
 #### [Tuesday](https://drive.google.com/drive/folders/1FeeVRlzF5wzAjNaAlaIrr2MIMux-PAd1?usp=sharing)
 - William Sethares
   - Spectra and scale
+  - [Consonance-Based Spectral Mappings](https://sethares.engr.wisc.edu/paperspdf/cmj98.pdf)
   - __Listening:__ Two versions of _Ten Fingers_ [1](https://sethares.engr.wisc.edu/mp3s/Ten_Fingers.mp3), [2](https://sethares.engr.wisc.edu/mp3s/tenfingersX.mp3)
 - Bohlen
   - 833 cents scale, A12 scale
