@@ -50,3 +50,12 @@ _alone in the machine_ (2016) <br/>
 
 [_New American Fare_](./sight/newamericanfare) (2019 - ongoing) <br/>
 &nbsp;&nbsp;culinary arts for the machine
+
+## Incomplete
+...always searching for collaborators...
+
+[_Arrastra_](./sight/arrastra)
+&nbsp;&nbsp;Sisyphean mechanical sound installation
+
+[_HEARD_](./sight/heard)
+&nbsp;&nbsp;aural voyeurism
