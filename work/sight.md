@@ -54,8 +54,8 @@ _alone in the machine_ (2016) <br/>
 ## Incomplete
 ...always searching for collaborators...
 
-[_Arrastra_](./sight/arrastra)
+[_Arrastra_](./sight/arrastra) <br/>
 &nbsp;&nbsp;Sisyphean mechanical sound installation
 
-[_HEARD_](./sight/heard)
+[_HEARD_](./sight/heard) <br/>
 &nbsp;&nbsp;aural voyeurism
