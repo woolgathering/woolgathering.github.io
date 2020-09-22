@@ -51,6 +51,9 @@ _alone in the machine_ (2016) <br/>
 [_New American Fare_](./sight/newamericanfare) (2019 - ongoing) <br/>
 &nbsp;&nbsp;culinary arts for the machine
 
+[_no facts, just slander_](./sight/nofactsjustslander) (2020) <br/>
+&nbsp;&nbsp;physical feedback sound sculpture
+
 ## Incomplete
 ...always searching for collaborators...
 

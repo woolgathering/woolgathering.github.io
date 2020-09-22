@@ -7,7 +7,7 @@ permalink: /events
 
 ## 2020
 
-__09.2020__ Meditation I, II, and III on WHYR's [Syntheclectico](https://www.facebook.com/Syntheclectico/).
+__09.2020__ Meditation I, II, and III on WHYR's [Syntheclectico](https://syntheclectico.weebly.com/).
 
 __06.14.2020 - 06.21.2020__ __CANCELLED__ _once in a while i don't believe you iii_ multi-day sound installation at Avery Fischer Library, New York University. NYCEMF 2020 (New York, New York)
 
