@@ -4,6 +4,7 @@
 
 _site/
 .sass-cache/
+.jeykll-cache/
 
 #####=== Sass ===#####
 
