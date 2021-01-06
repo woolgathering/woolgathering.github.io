@@ -46,7 +46,7 @@ Using my own brainwaves, I play the part of both the psychologist and psychologi
 </d1>
 <br/>
 
-See the first six as displahyed at _Rising Tide_ [here](rorschach/display_all.html).
+See the first six as displayed at _Rising Tide_ [here](rorschach/display_all.html).
 
 ### _Exhibition History_
 

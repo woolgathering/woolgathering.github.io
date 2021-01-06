@@ -29,3 +29,13 @@ permalink: /work
 </d1>
 
 <!-- [Installation](https://www.jacobsundstrom.com/work/installation) -->
+
+# Writing and Research
+<d1>
+  <div class="thumbnail">
+    <!-- <a href="https://www.jacobsundstrom.com/work/sight"> -->
+    <a href="../work/writing">
+      <img src="../work/writing/stpt/residual_spec.png">
+    </a>
+  </div>
+</d1>
