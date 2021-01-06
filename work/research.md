@@ -7,7 +7,7 @@ permalink: /work/research
 Some of the writing and research I have done and continue to do.
 
 <!-- [The Short-Time Periodicty Transform and its Applications to Audio Synthesis](./stpt) -->
-## Technical Papers
+## Technical Writing
 
 [___The Short-Time Periodicty Transform and its Applications to Audio Synthesis___](./research/stpt) <br/>
 &nbsp;&nbsp;A rough version of the paper submitted to the Audio Engineering Society. 2020.
