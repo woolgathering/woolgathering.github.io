@@ -34,7 +34,7 @@ permalink: /work
 <d1>
   <div class="thumbnail">
     <!-- <a href="https://www.jacobsundstrom.com/work/sight"> -->
-    <a href="../work/writing">
+    <a href="../work/research">
       <img src="../work/writing/stpt/residual_spec.png">
     </a>
   </div>
