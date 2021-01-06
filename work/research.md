@@ -11,5 +11,5 @@ permalink: /work/research
 
 ## Aesthetics + Critical Practice
 
-[___So Weiner, Burnham, and Tudor walk into a bar...___](./bandoneon) <br/>
+[___So Weiner, Burnham, and Tudor walk into a bar...___](./research/bandoneon) <br/>
 &nbsp;&nbsp;A paper on David Tudor's _Bandoneon! (a combine)_ via Jack Burnham and Norbert Weiner.
