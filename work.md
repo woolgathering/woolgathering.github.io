@@ -31,6 +31,7 @@ permalink: /work
 <!-- [Installation](https://www.jacobsundstrom.com/work/installation) -->
 
 ## Writing and Research
+
 <d1>
   <div class="thumbnail">
     <!-- <a href="https://www.jacobsundstrom.com/work/sight"> -->
