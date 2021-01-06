@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: post
 permalink: /work/research/bandoneon
 ---
 
 # So Weiner, Burnham, and Tudor walk into a bar...
 
-A paper on David Tudor's _Bandoneon! (a combine)_ via Jack Burnham and Norbert Weiner. The nicely formatted PDF with images is [here](./bandoneon/sundstrom_weinerBurnhamTudor.pdf). Text is reproduced below.
+A paper on David Tudor's _Bandoneon! (a combine)_ via Jack Burnham and Norbert Weiner. The nicely formatted PDF with images is [here](./bandoneon/sundstrom_burr_weinerBurnhamTudor.pdf). Text is reproduced below.
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
