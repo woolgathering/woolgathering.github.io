@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /work/writing/bandoneon
+permalink: /work/research/bandoneon
 ---
 
 # So Weiner, Burnham, and Tudor walk into a bar...
