@@ -29,7 +29,6 @@ permalink: /work
 </d1>
 
 <!-- [Installation](https://www.jacobsundstrom.com/work/installation) -->
-
 ## Writing and Research
 
 <d1>
