@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /work/research/stpt
+permalink: /work/research/dbap
 ---
 
 # Speaker Placement Agnosticism: Improving the Distance-based Amplitude Panning Algorithm
