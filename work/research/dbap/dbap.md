@@ -5,7 +5,7 @@ permalink: /work/research/stpt
 
 # Speaker Placement Agnosticism: Improving the Distance-based Amplitude Panning Algorithm
 
-PDF: [Color](./sundstrom_dbapCOLOR.pdf), [B\&w](./sundstrom_dbapBW.pdf)
+PDF: [Color](./sundstrom_dbapCOLOR.pdf), [B\&W](./sundstrom_dbapBW.pdf)
 
 ### High-Resolution Color Plots
 
