@@ -25,4 +25,4 @@ PDF: [Color](./sundstrom_dbapCOLOR.pdf), [B\&W](./sundstrom_dbapBW.pdf)
 
 [Figure 7](./asym/abs_gain.png): Gain curves for ADBAP. Although the behavior is much more what is expected, note the spike in power around the first pi when the virtual source closes in on the cluster of speakers 2 and 8.
 
-[Figure 8](./asym/new_gain.png): Gain curves for the version presetned in this paper.
+[Figure 8](./asym/new_gain.png): Gain curves for the version presented in this paper.
