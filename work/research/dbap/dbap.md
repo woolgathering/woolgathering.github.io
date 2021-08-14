@@ -18,7 +18,7 @@ PDF: [Color](./sundstrom_dbapCOLOR.pdf), [B\&W](./sundstrom_dbapBW.pdf)
 [Figure 4](./grid/abs_gain.png): ADBAP. Rolloff = 6. *Top*: Plot of a 3x3 grid of loudspeakers with a line showing the movement of the source from the center of the field, extending in a spiral to a point outside the field. *Middle*: Gains of the each speaker, color coded to correspond to the above figure. *Bottom*: The power of the entire field as a function of the source's angle.
 
 ##### SPL vs. Angle
-These plots show the SPL a listener would experience as a function of both the angle of the virtual source and the ''incoming angle" on a heatmap for a listener placed at the reference (in this case, the origin). That is, the x-axis is the angle of the virtual source in radians and the y-axis is the ''incoming angle" in radians where 0 is directly ahead and $\pi$ is directly behind a listener facing forward (0 radians). These plots assume all speakers are facing the listener and the SPL is scaled as $1/d^2$ for all speakers.
+These plots show the SPL a listener would experience as a function of both the angle of the virtual source and the ''incoming angle" on a heatmap for a listener placed at the reference (in this case, the origin). That is, the x-axis is the angle of the virtual source in radians and the y-axis is the ''incoming angle" in radians where 0 is directly ahead and π is directly behind a listener facing forward (0 radians). These plots assume all speakers are facing the listener and the SPL is scaled as 1/d^2 for all speakers.
 
 [Original DBAP](./grid/splVSang_orig.png)
 
