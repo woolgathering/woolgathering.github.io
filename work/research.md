@@ -9,6 +9,9 @@ Some of the writing and research I have done and continue to do.
 <!-- [The Short-Time Periodicty Transform and its Applications to Audio Synthesis](./stpt) -->
 ## Technical Writing
 
+[___Fusion of Music Styles Using LSTM Recurrent Neural Networks___](./research/midirnn) <br/>
+&nbsp;&nbsp;Unpublished. 2018.
+
 [___The Short-Time Periodicty Transform and its Applications to Audio Synthesis___](./research/stpt) <br/>
 &nbsp;&nbsp;Unpublished. 2020.
 
