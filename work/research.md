@@ -25,3 +25,8 @@ Some of the writing and research I have done and continue to do.
 
 [___So Weiner, Burnham, and Tudor walk into a bar...___](./research/bandoneon) <br/>
 &nbsp;&nbsp;A paper on David Tudor's _Bandoneon! (a combine)_ via Jack Burnham and Norbert Weiner. 2018.
+
+## PhD Qualification Paper
+Just for posterity, including my PhD qualification papers: __Exploiting the Pathology in/of Media in Art__, __The Use and Abuse of Flocking Algorithms in Music__, __So Weiner, Burnham, and Tudor walk into a bar...__
+
+[PDF](./research/quals/sundstrom_quals.pdf)
