@@ -5,6 +5,16 @@ permalink: /events
 
 # Events
 
+## 2022
+
+__01.12.2022__ _PERSISTENCE_ for cello and computer musician by Roger Reynolds. With Robert Jędrzejewski, cello. Lithuanian Academy of Music and Theatre sound sphere (Vilnius, Lithuania)
+
+__29.11.2022__ Recital/lecture with _PERSISTENCE_ for cello and computer musician by Roger Reynolds. With Robert Jędrzejewski, cello. Uniwersytet Muzyczny Fryderyka Chopina (UMFC) electronic music studio (Warsaw, Poland)
+
+__27.11.2022__ Lecutre on computer part for _PERSISTENCE_. With Robert Jędrzejewski. Akademia Muzyczna im. Krzysztofa Pendereckiego w Krakowie electronic music studio (Krakow, Poland)
+
+__26.11.2022__ _PERSISTENCE_ for cello and computer musician by Roger Reynolds. With Robert Jędrzejewski, cello. Cricoteka, [AudioArt festival](https://www.audio.art.pl/) (Krakow, Poland)
+
 ## 2021
 
 __TBD__ _once in a while i don't believe you iii_ multi-day sound installation at MAT (Santa Barbara, California)
