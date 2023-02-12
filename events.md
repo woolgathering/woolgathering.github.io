@@ -5,6 +5,12 @@ permalink: /events
 
 # Events
 
+## 2023
+
+__10.30.2023__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. Coolidge Auditorium, Library of Congress (Washington, D.C.)
+
+__02.28.2023 - 04.16.2023__ _thoughts on Rorschach_ at [Art Produce](https://www.artproduce.org/) (San Diego, California)
+
 ## 2022
 
 __01.12.2022__ _PERSISTENCE_ for cello and computer musician by Roger Reynolds. With Robert Jędrzejewski, cello. Lithuanian Academy of Music and Theatre sound sphere (Vilnius, Lithuania)
