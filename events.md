@@ -5,7 +5,15 @@ permalink: /events
 
 # Events
 
+## 2024
+
+__03.19.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. Lippes Concert Hall, University of Buffalo (Buffalo, New York)
+
+__03.09.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. CNMAT, UC Berkeley (Berkeley, California)
+
 ## 2023
+
+__12.09.2023 [No students recieve an EDUCATION IN theory](https://www.jacobsundstrom.com/work/sight/blackout/nsret) (2020) Latex paint, old sheet music. Space4Art Common Space Gallery (San Diego, California)
 
 __10.30.2023__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. Coolidge Auditorium, Library of Congress (Washington, D.C.)
 
