@@ -9,6 +9,8 @@ permalink: /events
 
 __03.19.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. Lippes Concert Hall, University of Buffalo (Buffalo, New York)
 
+__03.18.2024__ Lecture on computer music practice. University of Buffalo Department of Music (Buffalo, New York)
+
 __03.09.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. CNMAT, UC Berkeley (Berkeley, California)
 
 ## 2023
@@ -79,6 +81,6 @@ __10.03.2017__ _the piece formerly known as Boring Formless Nonsense_ for barito
 
 __11.02.2017__ _once in a while, i don't believe you_ overnight performance as part of the SlowSD Festival of Slow Music. Conrad Prebys Music Center (La Jolla, California)
 
-## 2016
+## 1988-2016
 
 I can hardly remember...
