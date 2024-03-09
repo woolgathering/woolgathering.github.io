@@ -7,11 +7,15 @@ permalink: /events
 
 ## 2024
 
-__03.19.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. Lippes Concert Hall, University of Buffalo (Buffalo, New York)
+__03.26.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. Lippes Concert Hall, University of Buffalo (Buffalo, New York)
 
-__03.18.2024__ Lecture on computer music practice. University of Buffalo Department of Music (Buffalo, New York)
+__03.25.2024__ Lecture on computer music practice. University of Buffalo Department of Music (Buffalo, New York)
 
-__03.09.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. CNMAT, UC Berkeley (Berkeley, California)
+__03.17.2024__ Sound design for [_Knowing/Not Knowing_](https://parkandmarket.ucsd.edu/event/knowing-not-knowing/) with Roger Reynolds, Kyle Johnson, Robert Castro, and Steve Schick. Park & Market (San Diego, California)
+
+__03.10.2024__ _PASSAGE_ with Roger Reynolds. Pearson Theater, Meyer Labratory (Oakland, California)
+
+__03.09.2024__ _PERSISTENCE_ for cello and computer musician by Roger Reynolds. With Peter Ko, cello. CNMAT, UC Berkeley (Berkeley, California)
 
 ## 2023
 
