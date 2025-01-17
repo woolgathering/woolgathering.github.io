@@ -5,6 +5,12 @@ permalink: /events
 
 # Events
 
+## 2025
+
+__01.18.2025__ __POSTPONED__ _POETICA_ for percussion solo, percussion ensemble, prerecorded strings and IRCAM electronics by Chaya Czernowin. With Steve Schick, _red fish, blue fish_ and Doug Osman (sound design). Zipper Hall (Los Angeles, California)
+
+__01.15.2025__ _POETICA_ for percussion solo, percussion ensemble, prerecorded strings and IRCAM electronics by Chaya Czernowin. With Steve Schick, _red fish, blue fish_ and Doug Osman (sound design). Conrad Prebys Concert Hall, University of California, San Diego (San Diego, California)
+
 ## 2024
 
 __03.26.2024__ _ACTIONS_ for piano and computer musician by Roger Reynolds. With Eric Huebner, piano. Lippes Concert Hall, University of Buffalo (Buffalo, New York)
